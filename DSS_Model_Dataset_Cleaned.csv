@@ -1,0 +1,1483 @@
+university_name,gre,tuition_per_semester,student_faculty_ratio,cost_of_living,job_placement_alumni_success,branch
+California State University,297,17622.0,23.0,15548,78,Computer Science
+Cleveland State University,292,15530.0,18.0,14192,81,Computer Science
+Kent State University,299,20972.0,21.0,13722,84,Computer Science
+New York Institute of Technology,291,28800.0,14.0,26970,88,Computer Science
+University of Louisville,300,27954.0,15.0,16460,88,Computer Science
+University of Houston,293,21749.0,22.0,14662,88,Computer Science
+"California State University, Chico",299,19686.0,25.0,15360,86,Computer Science
+Oklahoma City University,300,14000.0,11.0,13296,82,Computer Science
+"State university of New York, Albany",298,27000.0,19.0,16400,78,Computer Science
+"Illinois State University, Normal",297,24600.0,18.0,14542,84,Computer Science
+"Texas A&M University, Commerce",291,17000.0,18.0,13582,81,Computer Science
+"Colorada Technical University, Colorado Springs",300,12000.0,20.0,17900,84,Computer Science
+North Dakota State University,294,9490.0,20.0,12952,83,Computer Science
+Lamar University,294,8000.0,19.0,13662,80,Computer Science
+University of Hawaii,295,12186.0,16.0,24150,80,Computer Science
+Arizona State University,309,11300.0,19.0,16140,85,Computer Science
+Stevens Institute of Technology,302,21600.0,25.0,27670,89,Computer Science
+University of Central Florida,302,6379.0,30.0,16400,91,Computer Science
+Drexel University,301,14516.0,10.0,25650,90,Computer Science
+Florida State University,306,6507.0,22.0,16844,86,Computer Science
+"University of Maryland, Baltimore County",305,11778.0,19.0,19068,91,Computer Science
+George Mason University,301,12564.0,17.0,17424,85,Computer Science
+University of Massachusetts Dartmouth,303,14497.0,18.0,15960,86,Computer Science
+Georgia State University,307,9286.0,23.0,16512,87,Computer Science
+University of Massachusetts Lowell,308,15180.0,17.0,16086,85,Computer Science
+Illinois Institute of Technology,302,11630.0,13.0,26940,92,Computer Science
+"University of Massachusetts, Boston",305,14493.0,16.0,17700,85,Computer Science
+Indiana University- Purdue University Indianapolis,310,9308.0,16.0,14958,92,Computer Science
+"University of Michigan, Dearborn",308,13890.0,18.0,16140,86,Computer Science
+Kansas State University,305,24035.0,18.0,14352,87,Computer Science
+"University of Missouri, Columbia",301,28901.0,17.0,14316,90,Computer Science
+"University of Missouri, Kansas City",310,25918.0,16.0,14406,88,Computer Science
+Louisiana State University and A&M College,310,28639.0,20.0,15966,86,Computer Science
+"University of Nebraska, Omaha",306,22386.0,15.0,13674,92,Computer Science
+Missouri University of Science and Technology,301,30684.0,18.0,14424,86,Computer Science
+University of New Hampshire,306,33016.0,19.0,17200,86,Computer Science
+New Jersey Institute of Technology,309,33696.0,16.0,26750,85,Computer Science
+University of North Carolina at Charlotte,309,20692.0,19.0,16512,87,Computer Science
+Northeastern University,302,27920.0,14.0,26550,86,Computer Science
+University of North Texas,307,14621.0,25.0,14220,90,Computer Science
+Northern Illinois University,309,16673.0,14.0,14502,91,Computer Science
+University of Oklahoma,310,21100.0,17.0,14820,92,Computer Science
+Oklahoma State University-Stillwater,305,22362.0,19.0,13722,90,Computer Science
+University of South Carolina,301,28898.0,17.0,17184,90,Computer Science
+Old Dominion University,305,26370.0,18.0,15324,87,Computer Science
+University of South Florida,309,21126.0,22.0,16854,87,Computer Science
+Rochester Institute of Technology,307,21126.0,22.0,27730,92,Computer Science
+University of Texas at Arlington,307,21778.0,25.0,15984,88,Computer Science
+"Rutgers University, Newark",304,31282.0,16.0,25200,85,Computer Science
+University of Texas at Dallas,309,27043.0,23.0,18984,87,Computer Science
+San Diego State University,310,17622.0,27.0,24072,87,Computer Science
+University of Texas at San Antonio,301,21606.0,25.0,18440,87,Computer Science
+San Francisco State University,304,18804.0,23.0,27960,86,Computer Science
+University of Toledo,302,24660.0,20.0,15876,88,Computer Science
+San Jose State University,302,27384.0,27.0,28152,89,Computer Science
+University of Wisconsin-Milwaukee,302,24330.0,21.0,21176,86,Computer Science
+Santa Clara University,305,52245.0,11.0,33760,91,Computer Science
+Utah State University,306,26888.0,20.0,17864,85,Computer Science
+"Southern Illinois University, Carbondale",306,29686.0,14.0,16432,92,Computer Science
+Washington State University,301,27693.0,15.0,20672,88,Computer Science
+Southern Methodist University,308,49358.0,11.0,31872,90,Computer Science
+Wayne State University,303,31282.0,15.0,17664,87,Computer Science
+"State University of New York, Albany",301,25920.0,19.0,25504,87,Computer Science
+"West Virginia University, Morgantown",304,26966.0,19.0,18696,91,Computer Science
+State University of New York at Binghamton,309,27761.0,18.0,21888,90,Computer Science
+Western Michigan University,303,26842.0,17.0,18544,85,Computer Science
+Pennsylvania State University,319,38728.0,16.0,26896,90,Computer Science
+Ohio State University,313,32061.0,19.0,23896,95,Computer Science
+North Carolina State University,319,28926.0,14.0,22504,95,Computer Science
+Boston University,316,57710.0,10.0,35776,95,Computer Science
+"University of Colorado, Boulder",319,34125.0,18.0,20984,93,Computer Science
+Indiana University Bloomington,317,33741.0,16.0,19560,93,Computer Science
+Arizona State University,318,28800.0,19.0,22336,90,Computer Science
+"University of North Carolina, Greensboro",319,23854.0,18.0,17808,91,Computer Science
+Louisiana State University,317,28639.0,20.0,17120,93,Computer Science
+The University of Alabama at Birmingham,312,19032.0,19.0,18000,91,Computer Science
+New York University,311,54880.0,9.0,40000,92,Computer Science
+University of Iowa,317,32279.0,16.0,22256,92,Computer Science
+"University of Michigan, Dearborn",318,30132.0,21.0,21440,94,Computer Science
+"University of Texas, Dallas",318,27043.0,23.0,18984,93,Computer Science
+University of South Florida,312,21126.0,22.0,18800,91,Computer Science
+Colorado State University,318,30604.0,16.0,21544,92,Computer Science
+University of Florida,320,30132.0,21.0,22336,90,Computer Science
+Tulane University,314,56800.0,8.0,34656,90,Computer Science
+University of Southern California,318,49464.0,8.0,37336,94,Computer Science
+University of Pennsylvania,322,45890.0,6.0,42408,94,Computer Science
+Rice University - George R. Brown School of Engineering,330,49112.0,6.0,38304,95,Computer Science
+University of Michigan Ann Arbor - College of Engineering,329,30132.0,21.0,27632,93,Computer Science
+Georgia Institute of Technology - College of Engineering,323,29848.0,21.0,25336,96,Computer Science
+University of Illinois Urbana-Champaign - College of Engineering,322,32816.0,20.0,21728,96,Computer Science
+Cornell University - College of Engineering,323,59282.0,9.0,39416,94,Computer Science
+Johns Hopkins University - Whiting School of Engineering,326,55350.0,9.0,33888,95,Computer Science
+Duke University - Pratt School of Engineering,329,56888.0,9.0,38896,95,Computer Science
+Brown University - School of Engineering,324,58404.0,8.0,46352,95,Computer Science
+Purdue University - College of Engineering,328,28794.0,13.0,22176,95,Computer Science
+University of Texas Austin - Cockrell School of Engineering,328,22264.0,19.0,23104,97,Computer Science
+University of Wisconsin Madison - College of Engineering,330,25294.0,17.0,24000,96,Computer Science
+Iowa State University - College of Engineering,325,26032.0,19.0,19392,97,Computer Science
+Northwestern University - Robert R. McCormick School of Engineering,328,57272.0,6.0,41312,93,Computer Science
+Vanderbilt University - School of Engineering,321,53790.0,7.0,38450,96,Computer Science
+University of Virginia - School of Engineering and Applied Sciences,328,31948.0,14.0,27824,93,Computer Science
+University of Minnesota Twin Cities - College of Science and Engineering,328,28845.0,17.0,24616,96,Computer Science
+Rensselaer Polytechnic Institute - School of Engineering,321,56225.0,15.0,39840,97,Computer Science
+University of Rochester - Hajim School of Engineering and Applied Sciences,328,61090.0,10.0,39296,95,Computer Science
+University of Southern California - Viterbi School of Engineering,326,57256.0,8.0,37336,93,Computer Science
+University of Maryland College Park - A. James Clark School of Engineering,329,33000.0,15.0,29000,94,Computer Science
+Ohio State University - College of Engineering,328,31418.0,19.0,23896,93,Computer Science
+Virginia Tech - College of Engineering,326,29229.0,14.0,21008,97,Computer Science
+University of California Irvine - Henry Samueli School of Engineering,330,43481.0,19.0,34400,93,Computer Science
+Texas A&M University - Dwight Look College of Engineering,322,21060.0,19.0,20312,94,Computer Science
+North Carolina State University - College of Engineering,329,28926.0,14.0,22504,95,Computer Science
+University of California Santa Barbara - College of Engineering,330,28749.0,23.0,34400,95,Computer Science
+University of Washington - College of Engineering,326,38166.0,19.0,28480,96,Computer Science
+University of California Davis - College of Engineering,328,28659.0,20.0,35496,94,Computer Science
+University of Colorado Boulder - College of Engineering and Applied Sciences,322,34125.0,18.0,20984,95,Computer Science
+Harvard University,339,49653.0,7.0,35664,97,Computer Science
+Stanford University,332,56169.0,4.0,42515,97,Computer Science
+University of Pennsylvania,339,52420.0,6.0,42408,96,Computer Science
+Columbia University,336,49968.0,6.0,49952,97,Computer Science
+Cornell University,331,31270.0,9.0,39416,95,Computer Science
+Yale University,331,44500.0,6.0,46240,97,Computer Science
+"University of California, Los Angeles",340,42994.0,5.0,35578,95,Computer Science
+"University of Maryland, College Park",332,33000.0,15.0,29000,96,Computer Science
+Cornell University,340,57204.0,7.0,37152,96,Computer Science
+Columbia University,332,49968.0,6.0,45280,97,Computer Science
+Dartmouth College,340,57204.0,7.0,44320,98,Computer Science
+California State University,300,18714.0,23.0,22236,85,Data Science
+"California State University, Fresno",299,18852.0,23.0,20484,80,Data Science
+Cleveland State University,292,15458.0,17.0,18000,83,Data Science
+Kent State University,297,21952.0,21.0,18216,81,Data Science
+New York Institute of Technology,291,38400.0,14.0,28704,78,Data Science
+University of Louisville,296,27954.0,14.0,17640,78,Data Science
+University of Houston,295,26519.0,23.0,18104,86,Data Science
+"California State University, Chico",294,19691.0,24.0,21612,84,Data Science
+Oklahoma City University,298,29020.0,11.0,18800,82,Data Science
+"State University of New York, Albany",300,25920.0,19.0,25504,81,Data Science
+"Texas A & M University, Commerce",299,23305.0,21.0,16672,87,Data Science
+Lamar University,290,18491.0,17.0,16768,85,Data Science
+University of Hawaii,290,36816.0,13.0,25740,81,Data Science
+University of Denver,290,52662.0,12.0,34816,86,Data Science
+Loyola University Chicago,291,45543.0,14.0,35200,84,Data Science
+"Illinois State University, Normal",290,22341.0,18.0,17200,88,Data Science
+"Temple University, PA",295,32858.0,14.0,27104,88,Data Science
+Jackson State University,300,24553.0,16.0,15784,87,Data Science
+Long Island University,299,42310.0,12.0,30120,83,Data Science
+Bradley University,298,34330.0,12.0,21480,87,Data Science
+University of Bridgeport –CT,299,30802.0,15.0,28600,87,Data Science
+University of Dayton –Ohio,294,45890.0,15.0,23000,80,Data Science
+"Texas A & M university, Kingsville",296,16543.0,20.0,16432,78,Data Science
+"University of West Florida, Pensacola",298,19241.0,21.0,17880,78,Data Science
+Eastern Michigan University,291,27766.0,15.0,20584,85,Data Science
+"Minnesota State University, Mankato",290,17898.0,22.0,18000,81,Data Science
+"Suffolk University, MA",290,33624.0,14.0,35776,85,Data Science
+"University of North Carolina, Greensboro",296,27770.0,17.0,17808,81,Data Science
+New Mexico Institute of Mining & Tech.,295,22292.0,16.0,20000,78,Data Science
+University of Central Arkansas,295,13726.0,17.0,16440,82,Data Science
+"Southeastern University, DC",294,30042.0,15.0,32872,84,Data Science
+"Southern Oregon University, Ashland",298,26382.0,20.0,20464,81,Data Science
+State University of West Georgia,296,20370.0,21.0,18432,78,Data Science
+Ball State University,291,26640.0,15.0,20280,86,Data Science
+University of Texas El Paso,298,24305.0,19.0,18400,83,Data Science
+Columbus State University,299,17834.0,18.0,19344,85,Data Science
+Arkansas State University,292,12120.0,17.0,16384,88,Data Science
+North Dakota State University,291,14401.0,20.0,21072,84,Data Science
+Dakota State University,293,13460.0,17.0,18304,86,Data Science
+St Cloud State University,290,17920.0,22.0,18544,84,Data Science
+Marquette University,296,43570.0,14.0,36272,83,Data Science
+City College of the City of New York,293,20304.0,16.0,25200,80,Data Science
+Northeastern Illinois University,294,20994.0,14.0,20608,80,Data Science
+University of Detroit Mercy,300,30450.0,11.0,24296,84,Data Science
+University of Arkansas Little Rock,299,18957.0,12.0,17040,85,Data Science
+Alabama A & M University,296,18634.0,19.0,15360,86,Data Science
+"Widener University, Pennsylvania",294,17760.0,12.0,33840,82,Data Science
+Alcorn State University,290,7566.0,20.0,15288,88,Data Science
+Gannon University,294,28794.0,14.0,27904,86,Data Science
+University of Findlay-Ohio,295,32110.0,16.0,21200,83,Data Science
+"San Diego State University, California",290,19596.0,27.0,24072,82,Data Science
+Northwestern Polytechnic University,297,19290.0,16.0,25000,85,Data Science
+Jacksonville State University,297,16320.0,18.0,17000,83,Data Science
+Saint Joseph University,296,54470.0,11.0,35776,85,Data Science
+Chapman University,299,60874.0,13.0,35200,88,Data Science
+Ferris State University,300,16778.0,16.0,21312,80,Data Science
+"University of New Haven, CT",292,39120.0,16.0,34616,86,Data Science
+"Farleigh Dickinson University, New Jersey",293,47100.0,12.0,31232,88,Data Science
+College of William & Mary,297,43400.0,11.0,36400,83,Data Science
+East Tennessee State University,296,26603.0,17.0,19600,85,Data Science
+"Southwest Texas State University, San Marcos",293,21063.0,23.0,19144,78,Data Science
+DePaul University,293,42498.0,17.0,37776,80,Data Science
+Mc Neese State University,294,18964.0,22.0,16800,79,Data Science
+Oakland University,295,26442.0,23.0,22416,83,Data Science
+Sam Houston State University,299,17978.0,23.0,18304,82,Data Science
+William Patterson University,291,23740.0,19.0,30368,83,Data Science
+Western Carolina University,300,21297.0,17.0,20864,80,Data Science
+University of Central Oklahoma,291,16113.0,20.0,16400,82,Data Science
+Widener University,291,48206.0,12.0,33840,80,Data Science
+"University of St Thomas, MN",293,26240.0,15.0,36376,80,Data Science
+Western Illinois university,298,17448.0,15.0,18480,83,Data Science
+"Bowling Green State University, Ohio",295,20801.0,20.0,20064,82,Data Science
+Delaware State University,296,17344.0,15.0,17280,80,Data Science
+"State University of New York, New Paltz",292,23100.0,12.0,25504,84,Data Science
+Central Michigan University,297,24120.0,21.0,20400,84,Data Science
+University of Southern Mississippi,297,11022.0,17.0,18768,85,Data Science
+Indiana University South Bend,300,29028.0,14.0,19200,88,Data Science
+Saint Mary’s University San Antonio,296,27610.0,20.0,18720,88,Data Science
+"Shippensburg University, PA",294,20362.0,21.0,21600,78,Data Science
+East Tennessee State University,293,26603.0,17.0,19600,86,Data Science
+"University of Texas, Pan America",300,18420.0,21.0,16576,78,Data Science
+Jackson State University,296,24553.0,16.0,15784,87,Data Science
+Oklahoma City University,298,29020.0,11.0,18800,85,Data Science
+Frostburg State University,290,19590.0,18.0,22112,88,Data Science
+"La Salle University, PA",292,31160.0,12.0,30400,82,Data Science
+Alfred University,295,32794.0,12.0,28000,86,Data Science
+Monmouth University-New Jersey,296,42938.0,13.0,31000,79,Data Science
+Southern New Hampshire University,299,33020.0,18.0,29360,79,Data Science
+Roosevelt University Chicago,298,29000.0,12.0,24720,80,Data Science
+Drake university,297,45216.0,11.0,26960,87,Data Science
+Shippensburg University of Pennsylvania,291,20362.0,21.0,21600,80,Data Science
+Duquesne University,296,47962.0,12.0,28240,83,Data Science
+Georgia College & State University,296,28130.0,17.0,18400,79,Data Science
+Georgia Southern University,290,24772.0,22.0,18216,84,Data Science
+Kennesaw State University,295,26236.0,22.0,18072,79,Data Science
+Long Island University,294,40274.0,13.0,30120,86,Data Science
+Loyola University Chicago,291,45543.0,14.0,35200,78,Data Science
+Northern Kentucky University,292,23040.0,17.0,20800,88,Data Science
+Lawrence Tech University,297,35230.0,11.0,24160,79,Data Science
+Clark Atlanta University,291,23226.0,16.0,18528,80,Data Science
+"California State University, Northridge",298,18714.0,23.0,22236,83,Data Science
+"Catholic University of America, Washington",292,48060.0,8.0,34176,88,Data Science
+"Ohio Dominican College (University), Ohio",296,34280.0,14.0,21000,88,Data Science
+"Ferris State University, Michigan",294,16778.0,16.0,21312,82,Data Science
+"Fitchburg State University, MA",290,16690.0,14.0,24500,87,Data Science
+"Hawaii Pacific University, Hawaii",297,27890.0,13.0,31320,81,Data Science
+"Northwood University, Michigan",295,27016.0,20.0,27500,84,Data Science
+"Johnson and Wales University, RI",293,34478.0,23.0,36000,82,Data Science
+"Governors State University, Parkway IL",297,21108.0,9.0,20720,78,Data Science
+"Troy State University, Alabama",300,15698.0,15.0,18368,78,Data Science
+Stevens Institute of Technology,296,54136.0,10.0,43176,83,Data Science
+"Florida Atlantic University, Boca Raton",290,17324.0,24.0,22384,78,Data Science
+Golden Gate University,300,19200.0,15.0,27800,78,Data Science
+Howard University,292,28440.0,8.0,34176,79,Data Science
+Dominican University,290,34850.0,11.0,29648,86,Data Science
+California State University,292,18766.0,25.0,16575,81,Mechanical Engineering
+Cleveland State University,295,17496.0,17.0,18234,85,Mechanical Engineering
+Kent State University,295,21198.0,21.0,17342,82,Mechanical Engineering
+New York Institute of Technology,295,27846.0,14.0,36588,84,Mechanical Engineering
+University of Louisville,294,27040.0,15.0,17192,79,Mechanical Engineering
+University of Houston,291,27675.0,22.0,16888,79,Mechanical Engineering
+"California State University, Chico",296,18522.0,23.0,23496,86,Mechanical Engineering
+Oklahoma City University,298,22328.0,10.0,22530,80,Mechanical Engineering
+"State University of New York, Albany",290,24660.0,19.0,20952,87,Mechanical Engineering
+"The University of Colorado, Denver",300,25342.0,16.0,21384,80,Mechanical Engineering
+Ohio’s Cleveland State University,293,17496.0,17.0,18234,82,Mechanical Engineering
+"Kent University, Ohio",294,21198.0,21.0,17342,78,Mechanical Engineering
+Florida Institute of Technology (FIT),295,37000.0,15.0,29124,88,Mechanical Engineering
+University of South Dakota,296,12384.0,17.0,16872,82,Mechanical Engineering
+University of Memphis,292,26674.0,14.0,17868,78,Mechanical Engineering
+Kansas State University,300,24193.0,18.0,17472,88,Mechanical Engineering
+University of Alabama at Birmingham (UAB),291,19704.0,19.0,17754,84,Mechanical Engineering
+"Widener University, Pennsylvania",292,26460.0,13.0,27414,83,Mechanical Engineering
+Rochester Institute of Technology (RIT),292,45808.0,13.0,25272,83,Mechanical Engineering
+"Southeastern University, DC",297,18908.0,16.0,33356,79,Mechanical Engineering
+Boston University,300,58560.0,10.0,36918,84,Mechanical Engineering
+Purdue University,298,28794.0,13.0,19464,80,Mechanical Engineering
+University of Southern California,290,61942.0,8.0,39696,82,Mechanical Engineering
+University of Florida,293,28658.0,21.0,20616,88,Mechanical Engineering
+Illinois Institute of Technology,293,46700.0,12.0,34980,87,Mechanical Engineering
+Florida State University,300,24116.0,22.0,21072,80,Mechanical Engineering
+University of Texas,299,25848.0,18.0,19656,88,Mechanical Engineering
+University of South Florida,292,17324.0,22.0,18588,84,Mechanical Engineering
+University of South Carolina,297,35066.0,18.0,19032,80,Mechanical Engineering
+Indiana University,300,39324.0,16.0,19296,84,Mechanical Engineering
+Arizona State University,302,29428.0,20.0,21912,88,Mechanical Engineering
+Stevens Institute of Technology,304,54136.0,10.0,37344,89,Mechanical Engineering
+University of Central Florida,304,22467.0,30.0,20172,92,Mechanical Engineering
+Drexel University,309,54522.0,11.0,36144,85,Mechanical Engineering
+Northern Illinois University,303,20126.0,17.0,18240,90,Mechanical Engineering
+Western Kentucky University,301,26000.0,18.0,16884,88,Mechanical Engineering
+Central Michigan University,302,24120.0,22.0,18096,90,Mechanical Engineering
+Cleveland State University,303,17496.0,17.0,18234,87,Mechanical Engineering
+Texas A&M University,305,22827.0,20.0,19344,88,Mechanical Engineering
+California State University,304,18522.0,21.0,23496,86,Mechanical Engineering
+Western Carolina University,303,22643.0,16.0,19140,88,Mechanical Engineering
+University of Nevada,306,20636.0,20.0,19992,90,Mechanical Engineering
+University of South Florida,307,17324.0,22.0,18588,90,Mechanical Engineering
+SUNY Binghamton,303,25536.0,20.0,20952,86,Mechanical Engineering
+Southern Methodist University,301,57560.0,11.0,33732,88,Mechanical Engineering
+University of Nebraska,308,25822.0,20.0,18036,87,Mechanical Engineering
+New Jersey Institute of Technology,307,31196.0,16.0,36240,87,Mechanical Engineering
+University of Tampa,304,17756.0,17.0,27372,89,Mechanical Engineering
+University of Houston,305,27675.0,22.0,16888,89,Mechanical Engineering
+Colorado State University,303,25536.0,20.0,20400,88,Mechanical Engineering
+Rochester Institute of Technology,303,45808.0,13.0,25272,88,Mechanical Engineering
+Louisiana State University,307,28639.0,20.0,17952,90,Mechanical Engineering
+Auburn University,310,31956.0,19.0,17508,87,Mechanical Engineering
+University of Kentucky,303,31924.0,17.0,17580,91,Mechanical Engineering
+University of Kansas,307,29251.0,17.0,17472,89,Mechanical Engineering
+North Dakota State University,302,14114.0,20.0,16320,86,Mechanical Engineering
+University of Arkansas,307,25872.0,18.0,17232,86,Mechanical Engineering
+University of Dayton,304,43000.0,16.0,20088,86,Mechanical Engineering
+University of New Mexico,304,26142.0,17.0,18408,85,Mechanical Engineering
+Villanova University,306,23430.0,12.0,30840,87,Mechanical Engineering
+Wright State University,307,17700.0,15.0,17808,87,Mechanical Engineering
+Illinois Institute of Technology,302,46700.0,12.0,34980,90,Mechanical Engineering
+Kansas State University,309,24193.0,18.0,17472,90,Mechanical Engineering
+Missouri State University,308,10098.0,21.0,16200,85,Mechanical Engineering
+Northeastern University,306,27360.0,14.0,37428,85,Mechanical Engineering
+Oklahoma State University,305,22641.0,18.0,18000,90,Mechanical Engineering
+Oregon State University,310,29175.0,18.0,21600,91,Mechanical Engineering
+State University of New York Albany,308,24660.0,19.0,20952,86,Mechanical Engineering
+Tennessee Technological University,303,24826.0,18.0,17568,86,Mechanical Engineering
+Texas Tech University,304,20850.0,20.0,18504,90,Mechanical Engineering
+"University of Alabama, Huntsville",302,23586.0,17.0,17754,87,Mechanical Engineering
+University of Connecticut,305,41778.0,16.0,20760,89,Mechanical Engineering
+University of Louisiana,304,28502.0,19.0,17952,91,Mechanical Engineering
+University of Oklahoma,310,23049.0,18.0,17760,88,Mechanical Engineering
+University of Pittsburg,309,35196.0,14.0,29832,86,Mechanical Engineering
+"University of Texas, Arlington",301,25128.0,25.0,18096,88,Mechanical Engineering
+Wayne State University,302,29040.0,18.0,18924,89,Mechanical Engineering
+West Virginia University,304,26010.0,18.0,17304,86,Mechanical Engineering
+Florida State University,302,24116.0,22.0,21072,85,Mechanical Engineering
+George Mason University,304,37284.0,17.0,21744,92,Mechanical Engineering
+Georgia State University,306,30160.0,24.0,19680,88,Mechanical Engineering
+Indiana University,301,38124.0,16.0,19296,90,Mechanical Engineering
+San Jose State University,305,28408.0,27.0,23496,85,Mechanical Engineering
+University of Georgia,304,28918.0,17.0,20016,89,Mechanical Engineering
+"University of Texas, Dallas",307,27837.0,24.0,19656,86,Mechanical Engineering
+New York University,307,61614.0,9.0,39888,86,Mechanical Engineering
+San Diego State University,302,19340.0,27.0,24600,91,Mechanical Engineering
+University of Wisconsin-Milwaukee,309,25144.0,17.0,19248,91,Mechanical Engineering
+Old Dominion University,303,29160.0,16.0,17904,85,Mechanical Engineering
+Santa Clara University,309,28350.0,10.0,35160,87,Mechanical Engineering
+"Illinois Institute of Technology, Chicago",310,46700.0,12.0,34980,92,Mechanical Engineering
+University of Louisiana,305,28502.0,19.0,17952,87,Mechanical Engineering
+University of Pittsburgh,301,35196.0,14.0,29832,89,Mechanical Engineering
+University of Texas​,309,25848.0,18.0,19656,91,Mechanical Engineering
+Pennsylvania State University,318,38728.0,16.0,20880,92,Mechanical Engineering
+Ohio State University,320,43904.0,19.0,20760,90,Mechanical Engineering
+North Carolina State University,311,28418.0,13.0,20448,90,Mechanical Engineering
+Boston University,319,58560.0,10.0,36918,95,Mechanical Engineering
+"University of Colorado, Boulder",313,38318.0,18.0,21384,91,Mechanical Engineering
+Indiana University Bloomington,315,38124.0,16.0,19296,94,Mechanical Engineering
+Arizona State University,319,29428.0,20.0,21912,92,Mechanical Engineering
+"University of North Carolina, Greensboro",318,23782.0,18.0,19140,95,Mechanical Engineering
+Louisiana State University,320,28639.0,20.0,17952,93,Mechanical Engineering
+The University of Alabama at Birmingham,316,19704.0,19.0,17754,93,Mechanical Engineering
+New York University,320,61614.0,9.0,39888,94,Mechanical Engineering
+University of Iowa,317,31569.0,16.0,19248,90,Mechanical Engineering
+"University of Michigan, Dearborn",312,24744.0,18.0,20760,92,Mechanical Engineering
+"University of Texas, Dallas",317,27837.0,24.0,19656,90,Mechanical Engineering
+University of South Florida,315,17324.0,22.0,18588,90,Mechanical Engineering
+Colorado State University,313,25744.0,18.0,20400,92,Mechanical Engineering
+University of Florida,320,30130.0,18.0,20616,95,Mechanical Engineering
+Tulane University,319,60104.0,8.0,33732,91,Mechanical Engineering
+University of Southern California,320,61614.0,9.0,39696,93,Mechanical Engineering
+The State University of New York (SUNY) at New Paltz,320,19140.0,15.0,20952,94,Mechanical Engineering
+Northeastern University,312,25085.0,14.0,37428,93,Mechanical Engineering
+University of Illinois,319,32250.0,20.0,19464,94,Mechanical Engineering
+North Carolina State University,317,28418.0,13.0,20448,90,Mechanical Engineering
+University of South Carolina,314,38208.0,18.0,19032,95,Mechanical Engineering
+Ohio State University,320,40994.0,19.0,20760,90,Mechanical Engineering
+Indiana University,319,38124.0,16.0,19296,90,Mechanical Engineering
+Boston University,319,56864.0,10.0,36918,92,Mechanical Engineering
+University of Colorado,313,36130.0,18.0,21384,90,Mechanical Engineering
+University of New Orleans,312,24046.0,18.0,17952,91,Mechanical Engineering
+Rice University - George R. Brown School of Engineering,326,47350.0,6.0,40320,95,Mechanical Engineering
+University of Michigan Ann Arbor - College of Engineering,324,48612.0,15.0,22800,95,Mechanical Engineering
+Georgia Institute of Technology - College of Engineering,328,33794.0,20.0,22800,95,Mechanical Engineering
+University of Illinois Urbana-Champaign - College of Engineering,327,31626.0,20.0,22800,95,Mechanical Engineering
+Cornell University - College of Engineering,328,30564.0,10.0,39600,97,Mechanical Engineering
+Johns Hopkins University - Whiting School of Engineering,330,57556.0,9.0,40800,97,Mechanical Engineering
+Duke University - Pratt School of Engineering,327,59604.0,9.0,40800,94,Mechanical Engineering
+Brown University - School of Engineering,322,62184.0,7.0,40800,97,Mechanical Engineering
+Purdue University - College of Engineering,328,28794.0,14.0,19464,94,Mechanical Engineering
+University of Texas Austin - Cockrell School of Engineering,326,24640.0,17.0,22800,94,Mechanical Engineering
+University of Wisconsin Madison - College of Engineering,326,37785.0,17.0,22800,94,Mechanical Engineering
+Iowa State University - College of Engineering,322,24056.0,19.0,19248,96,Mechanical Engineering
+Northwestern University - Robert R. McCormick School of Engineering,328,54568.0,6.0,42000,95,Mechanical Engineering
+Vanderbilt University - School of Engineering,325,49866.0,8.0,40800,96,Mechanical Engineering
+University of Virginia - School of Engineering and Applied Sciences,330,34628.0,15.0,39600,94,Mechanical Engineering
+University of Minnesota Twin Cities - College of Science and Engineering,323,29172.0,17.0,22800,94,Mechanical Engineering
+Rensselaer Polytechnic Institute - School of Engineering,324,56004.0,19.0,40800,97,Mechanical Engineering
+University of Rochester - Hajim School of Engineering and Applied Sciences,325,43500.0,10.0,39600,97,Mechanical Engineering
+University of Southern California - Viterbi School of Engineering,328,61614.0,9.0,40800,95,Mechanical Engineering
+University of Maryland College Park - A. James Clark School of Engineering,322,29706.0,15.0,22800,97,Mechanical Engineering
+Ohio State University - College of Engineering,328,40994.0,19.0,20760,94,Mechanical Engineering
+Virginia Tech - College of Engineering,328,31174.0,14.0,22800,96,Mechanical Engineering
+University of California Irvine - Henry Samueli School of Engineering,328,44742.0,14.0,22800,96,Mechanical Engineering
+Texas A&M University - Dwight Look College of Engineering,322,30208.0,20.0,19344,93,Mechanical Engineering
+North Carolina State University - College of Engineering,329,28418.0,13.0,20448,96,Mechanical Engineering
+University of California Santa Barbara - College of Engineering,330,28289.0,24.0,22800,95,Mechanical Engineering
+University of Washington - College of Engineering,326,35538.0,19.0,22800,97,Mechanical Engineering
+University of California Davis - College of Engineering,327,29429.0,18.0,22800,96,Mechanical Engineering
+University of Colorado Boulder - College of Engineering and Applied Sciences,322,36130.0,18.0,21384,96,Mechanical Engineering
+Yale University,323,37504.0,16.0,40800,93,Mechanical Engineering
+"University of California, Los Angeles",322,50464.0,15.0,22800,93,Mechanical Engineering
+"The University of Maryland, College Park",329,38884.0,11.0,22800,95,Mechanical Engineering
+University of Chicago,327,30130.0,18.0,40800,93,Mechanical Engineering
+Northwestern University,322,30594.0,14.0,42000,97,Mechanical Engineering
+University of Massachusetts,328,28800.0,23.0,20760,93,Mechanical Engineering
+"University of Washington, Seattle",324,55553.0,11.0,22800,94,Mechanical Engineering
+Washington University in St. Louis,325,25085.0,14.0,39600,95,Mechanical Engineering
+University of Arizona,322,33150.0,14.0,20400,96,Mechanical Engineering
+University of Notre Dame,327,55553.0,11.0,39600,97,Mechanical Engineering
+Rensselaer Polytechnic Institute,325,56004.0,19.0,40800,93,Mechanical Engineering
+"University of California, Santa Cruz",329,29136.0,18.0,22800,96,Mechanical Engineering
+California Institute of Technology - School of Engineering and Applied Science,338,56862.0,3.0,40800,97,Mechanical Engineering
+Stanford University - Stanford School of Engineering,334,56169.0,5.0,40800,99,Mechanical Engineering
+Columbia University - The Fu Foundation School of Engineering and Applied Science,338,51260.0,6.0,40800,99,Mechanical Engineering
+Princeton University - School of Engineering and Applied Science,333,51250.0,5.0,40800,97,Mechanical Engineering
+Harvard University - John A. Paulson School of Engineering and Applied Sciences,337,49214.0,9.0,40800,97,Mechanical Engineering
+Massachusetts Institute of Technology - School of Engineering,335,56704.0,3.0,40800,95,Mechanical Engineering
+Yale University - School of Engineering and Applied Sciences,337,44500.0,6.0,40800,95,Mechanical Engineering
+University of California San Diego - Jacobs School of Engineering,333,28713.0,23.0,22800,98,Mechanical Engineering
+University of California Los Angeles - Henry Samueli School of Engineering and Applied Science,337,42994.0,18.0,22800,98,Mechanical Engineering
+University of California Berkeley - School of Engineering,338,29289.0,20.0,22800,97,Mechanical Engineering
+Carnegie Mellon University - College of Engineering,331,44880.0,13.0,40800,99,Mechanical Engineering
+University of Pennsylvania - School of Engineering and Applied Science,333,40183.0,6.0,40800,98,Mechanical Engineering
+Rice University - George R. Brown School of Engineering,339,47350.0,6.0,40320,97,Mechanical Engineering
+University of Michigan Ann Arbor - College of Engineering,338,48612.0,15.0,22800,96,Mechanical Engineering
+Georgia Institute of Technology - College of Engineering,332,33794.0,20.0,22800,95,Mechanical Engineering
+University of Illinois Urbana-Champaign - College of Engineering,336,31626.0,20.0,22800,98,Mechanical Engineering
+Cornell University - College of Engineering,331,30564.0,10.0,39600,96,Mechanical Engineering
+Johns Hopkins University - Whiting School of Engineering,339,57556.0,9.0,40800,95,Mechanical Engineering
+Duke University - Pratt School of Engineering,338,59604.0,9.0,40800,97,Mechanical Engineering
+Brown University - School of Engineering,334,62184.0,7.0,40800,97,Mechanical Engineering
+Purdue University - College of Engineering,337,28794.0,14.0,19464,97,Mechanical Engineering
+University of Texas Austin - Cockrell School of Engineering,334,24640.0,17.0,22800,98,Mechanical Engineering
+University of Wisconsin Madison - College of Engineering,338,37785.0,17.0,22800,99,Mechanical Engineering
+Iowa State University - College of Engineering,338,24056.0,19.0,19248,99,Mechanical Engineering
+Northwestern University - Robert R. McCormick School of Engineering,337,54568.0,6.0,42000,95,Mechanical Engineering
+Vanderbilt University - School of Engineering,335,49866.0,8.0,40800,98,Mechanical Engineering
+University of Virginia - School of Engineering and Applied Sciences,335,34628.0,15.0,39600,97,Mechanical Engineering
+University of Minnesota Twin Cities - College of Science and Engineering,335,29172.0,17.0,22800,98,Mechanical Engineering
+Rensselaer Polytechnic Institute - School of Engineering,333,56004.0,19.0,40800,97,Mechanical Engineering
+University of Rochester - Hajim School of Engineering and Applied Sciences,332,43500.0,10.0,39600,96,Mechanical Engineering
+University of Southern California - Viterbi School of Engineering,334,61614.0,9.0,40800,98,Mechanical Engineering
+University of Maryland College Park - A. James Clark School of Engineering,331,29706.0,15.0,22800,98,Mechanical Engineering
+Ohio State University - College of Engineering,333,40994.0,19.0,20760,97,Mechanical Engineering
+Virginia Tech - College of Engineering,338,31174.0,14.0,22800,97,Mechanical Engineering
+University of California Irvine - Henry Samueli School of Engineering,337,44742.0,14.0,22800,96,Mechanical Engineering
+Texas A&M University - Dwight Look College of Engineering,332,30208.0,20.0,19344,96,Mechanical Engineering
+North Carolina State University - College of Engineering,338,28418.0,13.0,20448,97,Mechanical Engineering
+University of California Santa Barbara - College of Engineering,335,28289.0,24.0,22800,99,Mechanical Engineering
+University of Washington - College of Engineering,334,35538.0,19.0,22800,98,Mechanical Engineering
+University of California Davis - College of Engineering,332,29429.0,18.0,22800,99,Mechanical Engineering
+University of Colorado Boulder - College of Engineering and Applied Sciences,331,36130.0,18.0,21384,95,Mechanical Engineering
+Pennsylvania State University University Park - College of Engineering,340,37504.0,16.0,20880,96,Mechanical Engineering
+New York University - Tandon School of Engineering,337,50464.0,15.0,39888,96,Mechanical Engineering
+Case Western Reserve University - Case School of Engineering,333,38884.0,11.0,39600,96,Mechanical Engineering
+University of Florida - Herbert Wertheim College of Engineering,340,30130.0,18.0,20616,97,Mechanical Engineering
+University of Pittsburgh - Swanson School of Engineering,333,30594.0,14.0,29832,98,Mechanical Engineering
+Arizona State University - Ira A. Fulton Schools of Engineering,335,28800.0,23.0,21912,99,Mechanical Engineering
+University of Notre Dame - College of Engineering,333,55553.0,11.0,39600,95,Mechanical Engineering
+Northeastern University - College of Engineering,338,25085.0,14.0,37428,96,Mechanical Engineering
+University of Delaware - College of Engineering​,333,33150.0,14.0,20760,96,Mechanical Engineering
+California State University,295,15000.0,20.0,23496,87,Construction Engineering
+"California State University, Fresno",295,17000.0,19.0,18912,81,Construction Engineering
+Cleveland State University,296,18000.0,18.0,18234,86,Construction Engineering
+Kent State University,300,17500.0,19.0,17342,86,Construction Engineering
+New York Institute of Technology,291,20500.0,17.0,36588,86,Construction Engineering
+University of Louisville,290,19000.0,18.0,17192,88,Construction Engineering
+University of Houston,291,21000.0,17.0,16888,86,Construction Engineering
+"California State University, Chico",290,16500.0,20.0,23496,82,Construction Engineering
+Oklahoma City University,290,19500.0,18.0,22530,79,Construction Engineering
+"State University of New York, Albany",296,18000.0,19.0,20952,88,Construction Engineering
+"Texas A & M University, Commerce",295,20500.0,17.0,18036,87,Construction Engineering
+Lamar University,292,17000.0,20.0,16888,79,Construction Engineering
+University of Hawaii,293,22000.0,16.0,21600,86,Construction Engineering
+University of Denver,295,21500.0,17.0,21384,83,Construction Engineering
+Loyola University Chicago,296,19000.0,18.0,39696,83,Construction Engineering
+"Illinois State University, Normal",290,18500.0,19.0,18240,79,Construction Engineering
+"Temple University, PA",298,20000.0,17.0,36144,78,Construction Engineering
+Jackson State University,297,17500.0,20.0,16884,83,Construction Engineering
+Long Island University (LIU),294,19500.0,18.0,36918,83,Construction Engineering
+South Dakota State University,291,16500.0,20.0,16872,86,Construction Engineering
+North Dakota State University,291,17000.0,19.0,16320,83,Construction Engineering
+Cleveland State University (additional entry),290,18000.0,18.0,18234,88,Construction Engineering
+Bradley University,293,21000.0,17.0,19248,88,Construction Engineering
+University of Bridgeport,299,20500.0,17.0,27414,78,Construction Engineering
+University of Dayton,299,19500.0,18.0,20088,86,Construction Engineering
+"Texas A & M University, Kingsville",294,20500.0,17.0,18504,87,Construction Engineering
+"University of West Florida, Pensacola",293,18500.0,19.0,18588,87,Construction Engineering
+Eastern Michigan University,300,17500.0,20.0,18096,81,Construction Engineering
+"Minnesota State University, Mankato",294,16500.0,20.0,18000,80,Construction Engineering
+"Suffolk University, MA",290,19000.0,18.0,37428,87,Construction Engineering
+"University of North Carolina, Greensboro",299,18500.0,19.0,19140,78,Construction Engineering
+New Mexico Institute of Mining & Tech.,300,20000.0,17.0,18408,87,Construction Engineering
+University of Central Arkansas,300,17000.0,20.0,17232,88,Construction Engineering
+"Southeastern University, DC",293,21000.0,17.0,33356,78,Construction Engineering
+"University of Texas, Tyler",299,19500.0,18.0,19656,80,Construction Engineering
+Eastern Washington University,300,19500.0,18.0,21600,81,Construction Engineering
+"Southern Oregon University, Ashland",294,18500.0,19.0,19992,87,Construction Engineering
+University of Texas at San Antonio,296,20000.0,17.0,18096,86,Construction Engineering
+State University of West Georgia,300,17500.0,20.0,20016,86,Construction Engineering
+Ball State University,296,16500.0,20.0,19296,88,Construction Engineering
+University of Texas El Paso,298,17000.0,19.0,18504,88,Construction Engineering
+Columbus State University,298,18000.0,18.0,20172,82,Construction Engineering
+Arkansas State University,292,19000.0,18.0,17232,80,Construction Engineering
+Dakota State University,290,20500.0,17.0,16320,78,Construction Engineering
+St Cloud State University,295,17500.0,20.0,18000,86,Construction Engineering
+Marquette University,291,21000.0,17.0,39696,83,Construction Engineering
+City College of the City of New York,291,20500.0,17.0,39888,82,Construction Engineering
+Northeastern Illinois University,298,19500.0,18.0,18924,78,Construction Engineering
+University of Detroit Mercy,295,18500.0,19.0,18924,80,Construction Engineering
+Alabama A & M University,299,17000.0,20.0,13893,85,Construction Engineering
+Arizona State University,302,21000.0,17.0,21912,85,Construction Engineering
+Stevens Institute of Technology,310,22000.0,16.0,37056,89,Construction Engineering
+University of Central Florida,308,20500.0,17.0,18588,86,Construction Engineering
+Drexel University,301,21500.0,17.0,38232,91,Construction Engineering
+SUNY Institute of Technology,304,20000.0,17.0,20952,89,Construction Engineering
+Tennessee Technological University,301,19500.0,18.0,14364,91,Construction Engineering
+University of Oklahoma,304,20500.0,17.0,19248,92,Construction Engineering
+Kansas State University,309,20000.0,17.0,18048,85,Construction Engineering
+West Virginia University,308,19500.0,18.0,18240,91,Construction Engineering
+Oregon State University,301,20000.0,17.0,21600,85,Construction Engineering
+University of Nevada – Las Vegas,304,20500.0,17.0,19560,87,Construction Engineering
+San Diego State University,302,21000.0,17.0,18901,86,Construction Engineering
+Kent State University,303,17500.0,20.0,17342,91,Construction Engineering
+Northern Illinois University,304,18000.0,18.0,18924,87,Construction Engineering
+Western Kentucky University,302,19000.0,17.0,17724,90,Construction Engineering
+Central Michigan University,305,18500.0,19.0,18096,85,Construction Engineering
+Cleveland State University,301,18000.0,18.0,18234,92,Construction Engineering
+Texas A&M University,307,20500.0,17.0,18036,89,Construction Engineering
+Western Carolina University,302,17500.0,20.0,14508,89,Construction Engineering
+University of Nevada,306,20500.0,17.0,22800,91,Construction Engineering
+University of South Florida,306,20000.0,17.0,18588,88,Construction Engineering
+SUNY Binghamton,307,20000.0,17.0,22944,88,Construction Engineering
+Southern Methodist University,307,21000.0,17.0,39696,86,Construction Engineering
+Stevens Institute of Technology (additional entry),308,22000.0,16.0,37056,88,Construction Engineering
+University of Nebraska,301,19500.0,18.0,19248,89,Construction Engineering
+New Jersey Institute of Technology,305,21500.0,17.0,35456,87,Construction Engineering
+University of Tampa,309,19500.0,18.0,18588,87,Construction Engineering
+University of Houston,302,21000.0,17.0,16888,90,Construction Engineering
+Colorado State University,308,20000.0,17.0,20400,85,Construction Engineering
+Rochester Institute of Technology,306,22000.0,16.0,31512,91,Construction Engineering
+Louisiana State University,304,20000.0,17.0,17952,92,Construction Engineering
+Auburn University,305,19500.0,18.0,17028,85,Construction Engineering
+University of Kentucky,305,18500.0,19.0,17192,92,Construction Engineering
+University of Kansas,306,20000.0,17.0,19140,86,Construction Engineering
+North Dakota State University,302,17000.0,19.0,16320,88,Construction Engineering
+Drexel University (additional entry),307,21500.0,17.0,38232,89,Construction Engineering
+University of Arkansas,305,20500.0,16.0,17232,90,Construction Engineering
+University of Dayton,303,19500.0,18.0,20088,86,Construction Engineering
+University of New Mexico,302,20500.0,17.0,18408,88,Construction Engineering
+Villanova University,307,22000.0,16.0,40800,89,Construction Engineering
+Wright State University,310,19500.0,18.0,17244,88,Construction Engineering
+Illinois Institute of Technology,304,21000.0,17.0,39696,86,Construction Engineering
+Kansas State University (additional entry),302,20000.0,17.0,18048,88,Construction Engineering
+Missouri State University,301,19000.0,18.0,17760,86,Construction Engineering
+Northeastern University,303,21000.0,17.0,37428,88,Construction Engineering
+Oklahoma State University,303,20500.0,17.0,17232,92,Construction Engineering
+Oregon State University (additional entry),310,20000.0,17.0,21600,90,Construction Engineering
+State University of New York Albany,304,18000.0,18.0,20952,86,Construction Engineering
+Tennessee Technological University (additional entry),304,19500.0,18.0,14364,92,Construction Engineering
+Texas Tech University,307,19000.0,18.0,18096,86,Construction Engineering
+Pennsylvania State University,313,19000.0,18.0,20880,92,Construction Engineering
+Ohio State University,315,20000.0,17.0,20760,90,Construction Engineering
+North Carolina State University,314,19500.0,18.0,20448,93,Construction Engineering
+Boston University,318,21000.0,17.0,36918,92,Construction Engineering
+"University of Colorado, Boulder",313,20000.0,17.0,21384,93,Construction Engineering
+Indiana University Bloomington,314,19500.0,18.0,19296,95,Construction Engineering
+Arizona State University,316,21000.0,17.0,21912,95,Construction Engineering
+"University of North Carolina, Greensboro",316,18500.0,19.0,19140,94,Construction Engineering
+Louisiana State University,311,20000.0,17.0,17952,90,Construction Engineering
+The University of Alabama at Birmingham,316,19000.0,18.0,17754,92,Construction Engineering
+New York University,311,22000.0,16.0,39888,95,Construction Engineering
+University of Iowa,315,19000.0,18.0,19248,95,Construction Engineering
+"University of Michigan, Dearborn",315,18500.0,19.0,20760,90,Construction Engineering
+"University of Texas, Dallas",319,21000.0,17.0,19656,91,Construction Engineering
+University of South Florida,318,20000.0,17.0,18588,95,Construction Engineering
+Colorado State University,318,20000.0,17.0,20400,94,Construction Engineering
+University of Florida,317,19500.0,18.0,20616,95,Construction Engineering
+Tulane University,318,22000.0,16.0,33732,91,Construction Engineering
+University of Southern California,314,21000.0,17.0,39696,95,Construction Engineering
+University of California – Davis,317,20500.0,17.0,22800,90,Construction Engineering
+Michigan State University,311,19000.0,18.0,19248,90,Construction Engineering
+University of Cincinnati,315,18000.0,18.0,18096,93,Construction Engineering
+University of Utah,318,19000.0,18.0,21600,93,Construction Engineering
+University of Missouri – Columbia,311,19500.0,18.0,18000,91,Construction Engineering
+Indiana University Bloomington (additional entry),318,19500.0,18.0,19296,92,Construction Engineering
+Boston University (additional entry),318,21000.0,17.0,36918,95,Construction Engineering
+University of Colorado (additional entry),315,20000.0,17.0,21384,90,Construction Engineering
+North Carolina State University (additional entry),311,19500.0,18.0,20448,90,Construction Engineering
+Johns Hopkins University - Engineering,321,21000.0,17.0,40800,93,Construction Engineering
+Duke University - Pratt School of Engineering,330,22000.0,16.0,40800,96,Construction Engineering
+Brown University - School of Engineering,329,21500.0,17.0,40800,94,Construction Engineering
+Purdue University - College of Engineering,325,20500.0,17.0,19464,94,Construction Engineering
+University of Texas Austin - Cockrell School of Engineering,329,21500.0,17.0,22800,95,Construction Engineering
+University of Wisconsin Madison - College of Engineering,324,19500.0,18.0,22800,93,Construction Engineering
+Iowa State University - College of Engineering,327,20000.0,17.0,19248,93,Construction Engineering
+Northwestern University - Robert R. McCormick School of Engineering,327,22000.0,16.0,42000,95,Construction Engineering
+Vanderbilt University - School of Engineering,322,22000.0,16.0,40800,94,Construction Engineering
+University of Virginia - School of Engineering and Applied Sciences,323,21000.0,17.0,39600,97,Construction Engineering
+University of Minnesota Twin Cities - College of Science and Engineering,324,19500.0,18.0,22800,96,Construction Engineering
+Rensselaer Polytechnic Institute - School of Engineering,321,22000.0,16.0,40800,97,Construction Engineering
+University of Rochester - Hajim School of Engineering and Applied Sciences,321,21500.0,17.0,39600,93,Construction Engineering
+University of Southern California - Viterbi School of Engineering,328,21000.0,17.0,40800,95,Construction Engineering
+University of Maryland College Park - A. James Clark School of Engineering,321,20500.0,17.0,22800,96,Construction Engineering
+Ohio State University - College of Engineering,323,20000.0,17.0,20760,96,Construction Engineering
+Virginia Tech - College of Engineering,330,20000.0,17.0,22800,93,Construction Engineering
+University of California Irvine - Henry Samueli School of Engineering,322,20500.0,17.0,22800,96,Construction Engineering
+University of Michigan – Ann Arbor,328,19000.0,18.0,22800,95,Construction Engineering
+University of Illinois – Urbana Champaign,322,19500.0,18.0,22800,93,Construction Engineering
+Yale University,330,22000.0,16.0,40800,95,Construction Engineering
+University of California – Los Angeles,324,21000.0,17.0,29604,94,Construction Engineering
+University of Maryland – College Park,329,20500.0,17.0,22800,94,Construction Engineering
+Cornell University,323,21500.0,17.0,25332,97,Construction Engineering
+Columbia University,328,22000.0,16.0,42300,94,Construction Engineering
+Dartmouth College,326,22000.0,16.0,40800,97,Construction Engineering
+Brown University,324,21500.0,17.0,40800,94,Construction Engineering
+John Hopkins University,328,21000.0,17.0,40800,93,Construction Engineering
+University of Minnesota,323,19000.0,18.0,22800,93,Construction Engineering
+Duke University​,330,22000.0,16.0,40800,95,Construction Engineering
+Massachusetts Institute of Technology,334,22000.0,16.0,44400,96,Construction Engineering
+Stanford University,331,22000.0,16.0,41000,96,Construction Engineering
+California Institute of Technology,337,22000.0,16.0,40800,95,Construction Engineering
+"University of California, Berkeley",338,21000.0,17.0,25254,99,Construction Engineering
+Carnegie Mellon University,335,21500.0,16.0,44400,97,Construction Engineering
+Princeton University,340,22000.0,16.0,42650,98,Construction Engineering
+University of Texas at Austin,335,21500.0,17.0,22800,99,Construction Engineering
+Harvard University,334,22000.0,16.0,42650,96,Construction Engineering
+Texas A & M University,338,20500.0,17.0,18036,99,Construction Engineering
+"University of Michigan, Ann Arbor",331,19000.0,18.0,22800,97,Construction Engineering
+"University of Illinois, Urbana Champaign",340,20000.0,18.0,22800,98,Construction Engineering
+California State University,291,12000.0,20.0,23496,81,Public Health
+Cleveland State University,292,15500.0,18.0,18234,78,Public Health
+Kent State University,296,14000.0,17.0,17342,82,Public Health
+New York Institute of Technology,293,25000.0,16.0,36588,82,Public Health
+University of Louisville,298,20500.0,15.0,17192,80,Public Health
+University of Houston,297,18000.0,19.0,16888,88,Public Health
+"California State University, Chico",297,13500.0,21.0,23496,88,Public Health
+Oklahoma City University,298,22000.0,14.0,22530,83,Public Health
+"State University of New York, Albany",296,16500.0,22.0,20952,82,Public Health
+"Texas A & M University, Commerce",295,17000.0,20.0,18036,86,Public Health
+Lamar University,293,14500.0,18.0,16888,84,Public Health
+University of Hawaii,290,23000.0,15.0,21600,88,Public Health
+University of Denver,291,28000.0,13.0,21384,84,Public Health
+Loyola University Chicago,296,24500.0,16.0,39696,84,Public Health
+"Illinois State University, Normal",297,15000.0,19.0,18240,79,Public Health
+"Temple University, PA",290,20000.0,17.0,36144,85,Public Health
+Jackson State University,294,16500.0,20.0,16884,81,Public Health
+Long Island University (LIU),297,26000.0,14.0,36918,80,Public Health
+Bradley University,292,18500.0,15.0,19248,82,Public Health
+"University of Bridgeport, CT",292,21000.0,18.0,27414,79,Public Health
+"University of Dayton, Ohio",291,19500.0,19.0,20088,81,Public Health
+"Texas A & M University, Kingsville",296,17500.0,20.0,18504,80,Public Health
+"University of West Florida, Pensacola",293,15500.0,21.0,18588,83,Public Health
+Eastern Michigan University,292,16000.0,22.0,18096,81,Public Health
+"Minnesota State University, Mankato",295,17000.0,20.0,18000,82,Public Health
+"Suffolk University, MA",300,26500.0,14.0,37428,84,Public Health
+"University of North Carolina, Greensboro",296,19000.0,19.0,19140,85,Public Health
+New Mexico Institute of Mining & Technology,292,14500.0,21.0,18408,88,Public Health
+University of Central Arkansas,293,18500.0,15.0,17232,78,Public Health
+"Southeastern University, DC",296,20500.0,17.0,33356,82,Public Health
+"University of Texas, Tyler",299,19000.0,19.0,19656,82,Public Health
+Eastern Washington University,296,16500.0,20.0,21600,83,Public Health
+"Southern Oregon University, Ashland",290,15500.0,21.0,19992,81,Public Health
+University of Texas at San Antonio,293,18000.0,19.0,18096,84,Public Health
+State University of West Georgia,298,17500.0,20.0,20016,82,Public Health
+Ball State University,297,16000.0,22.0,19296,84,Public Health
+University of Texas El Paso,297,19500.0,19.0,18504,87,Public Health
+Columbus State University,296,17000.0,20.0,20172,86,Public Health
+Arkansas State University,290,16500.0,21.0,17232,82,Public Health
+North Dakota State University,299,15500.0,21.0,16320,87,Public Health
+Dakota State University,298,15000.0,22.0,16320,85,Public Health
+St Cloud State University,299,16500.0,20.0,18000,81,Public Health
+Marquette University,299,25000.0,16.0,39696,80,Public Health
+City College of the City of New York,294,19500.0,19.0,39888,88,Public Health
+Northeastern Illinois University,291,17500.0,20.0,18924,85,Public Health
+University of Detroit Mercy,294,20000.0,17.0,18924,88,Public Health
+University of Arkansas Little Rock,292,18000.0,19.0,17232,78,Public Health
+Alabama A & M University,294,16500.0,20.0,13893,79,Public Health
+"Widener University, Pennsylvania",295,22000.0,14.0,37776,86,Public Health
+Alcorn State University,290,16000.0,22.0,16872,85,Public Health
+University of Texas at Dallas,306,23000.0,15.0,19656,88,Public Health
+San Diego State University,305,21000.0,18.0,18901,88,Public Health
+University of Texas at San Antonio,307,18500.0,15.0,18096,86,Public Health
+San Francisco State University,306,20500.0,17.0,25332,88,Public Health
+University of Toledo,305,19000.0,19.0,18096,90,Public Health
+San Jose State University,307,21500.0,16.0,25254,88,Public Health
+University of Wisconsin-Milwaukee,301,18500.0,15.0,19248,88,Public Health
+Santa Clara University,303,27000.0,13.0,39924,88,Public Health
+Utah State University,305,19500.0,19.0,20400,88,Public Health
+"Southern Illinois University, Carbondale",304,16000.0,20.0,17472,92,Public Health
+Washington State University,303,18500.0,17.0,21600,90,Public Health
+Southern Methodist University,309,25000.0,15.0,39696,91,Public Health
+Wayne State University,303,17500.0,19.0,19248,87,Public Health
+"State University of New York, Albany",304,16500.0,22.0,20952,89,Public Health
+"West Virginia University, Morgantown",303,17000.0,20.0,18240,89,Public Health
+State University of New York at Binghamton,309,16000.0,21.0,22944,91,Public Health
+Western Michigan University,304,15500.0,21.0,18924,89,Public Health
+Arizona State University,305,20000.0,18.0,21912,91,Public Health
+Stevens Institute of Technology,301,27500.0,14.0,37056,91,Public Health
+University of Central Florida,304,18000.0,19.0,18588,90,Public Health
+Drexel University,302,24000.0,16.0,38232,89,Public Health
+Kent State University,306,14500.0,18.0,17342,90,Public Health
+Northern Illinois University,302,15000.0,19.0,18924,85,Public Health
+Western Kentucky University,307,16500.0,20.0,17724,92,Public Health
+Central Michigan University,307,15500.0,21.0,18096,88,Public Health
+Cleveland State University,310,15000.0,19.0,18234,86,Public Health
+Texas A&M University,305,19000.0,17.0,18036,91,Public Health
+Western Carolina University,307,16500.0,20.0,14508,88,Public Health
+University of Nevada,303,18500.0,18.0,22800,87,Public Health
+University of South Florida,305,17500.0,19.0,18588,87,Public Health
+SUNY Binghamton,303,16000.0,21.0,22944,89,Public Health
+Southern Methodist University,301,25000.0,15.0,39696,88,Public Health
+New Jersey Institute of Technology,301,22000.0,16.0,35456,91,Public Health
+University of Houston,308,19000.0,17.0,16888,85,Public Health
+Colorado State University,309,18500.0,18.0,20400,90,Public Health
+Rochester Institute of Technology,307,26000.0,14.0,31512,92,Public Health
+Louisiana State University,310,17500.0,19.0,17952,86,Public Health
+Auburn University,306,18000.0,19.0,17028,87,Public Health
+University of Kentucky,305,17000.0,20.0,17192,88,Public Health
+University of Kansas,309,17500.0,19.0,19140,90,Public Health
+North Dakota State University,303,15500.0,21.0,16320,90,Public Health
+Illinois Institute of Technology,304,24000.0,16.0,39696,89,Public Health
+Kansas State University,301,17500.0,19.0,18048,87,Public Health
+Missouri State University,307,16500.0,20.0,17760,89,Public Health
+Northeastern University,310,22000.0,16.0,37428,92,Public Health
+Oklahoma State University,305,18500.0,18.0,17232,89,Public Health
+Oregon State University,301,18000.0,19.0,21600,92,Public Health
+Tennessee Technological University,309,16500.0,20.0,14364,91,Public Health
+Texas Tech University,301,18000.0,19.0,18096,85,Public Health
+"University of Alabama, Huntsville",308,17000.0,20.0,17754,89,Public Health
+Pennsylvania State University,319,20000.0,18.0,20880,92,Public Health
+Ohio State University,312,19500.0,19.0,20760,95,Public Health
+North Carolina State University,316,20500.0,17.0,20448,95,Public Health
+Boston University,319,25000.0,15.0,36918,93,Public Health
+"University of Colorado, Boulder",316,21500.0,16.0,21384,93,Public Health
+Indiana University Bloomington,320,18500.0,18.0,19296,90,Public Health
+Arizona State University,317,20000.0,18.0,21912,92,Public Health
+"University of North Carolina, Greensboro",314,19000.0,19.0,19140,90,Public Health
+Louisiana State University,313,17500.0,19.0,17952,93,Public Health
+The University of Alabama at Birmingham,317,18000.0,19.0,17754,93,Public Health
+New York University,311,27000.0,14.0,39888,94,Public Health
+University of Iowa,320,17500.0,19.0,19248,95,Public Health
+"University of Michigan, Dearborn",317,22000.0,16.0,20760,90,Public Health
+"University of Texas, Dallas",318,19500.0,19.0,19656,95,Public Health
+University of South Florida,318,17500.0,19.0,18588,94,Public Health
+Colorado State University,317,18500.0,18.0,20400,94,Public Health
+University of Florida,318,20000.0,18.0,20616,92,Public Health
+Tulane University,312,24000.0,16.0,33732,91,Public Health
+University of Southern California,312,28000.0,13.0,39696,91,Public Health
+Purdue University,317,20000.0,18.0,19464,90,Public Health
+University of Pennsylvania,312,28000.0,13.0,42650,92,Public Health
+University of Virginia,318,22000.0,16.0,39600,93,Public Health
+Rutgers University,318,18500.0,18.0,36144,91,Public Health
+University of Chicago,313,27000.0,14.0,44400,91,Public Health
+Northwestern University,318,26000.0,14.0,42000,94,Public Health
+University of Massachusetts,317,17500.0,19.0,37428,93,Public Health
+"University of Washington, Seattle",319,21500.0,16.0,25254,94,Public Health
+Washington University in St. Louis,319,28500.0,13.0,44400,94,Public Health
+University of Arizona,313,20000.0,18.0,21600,90,Public Health
+University of Notre Dame,313,25000.0,15.0,40800,95,Public Health
+Rensselaer Polytechnic Institute,315,24000.0,16.0,40800,90,Public Health
+"University of California, Irvine",317,22000.0,16.0,22800,94,Public Health
+"University of California, Santa Cruz",319,20500.0,17.0,22800,95,Public Health
+Yale University,314,30000.0,12.0,40800,94,Public Health
+"University of California, Los Angeles",320,26500.0,14.0,29604,91,Public Health
+"The University of Maryland, College Park",318,19000.0,19.0,22800,95,Public Health
+Cornell University,314,27500.0,14.0,25332,92,Public Health
+Columbia University,316,28500.0,13.0,42300,95,Public Health
+Dartmouth College,316,29000.0,12.0,40800,90,Public Health
+Brown University,316,30500.0,11.0,40800,90,Public Health
+John Hopkins University,313,29500.0,11.0,40800,91,Public Health
+Duke University,313,30000.0,12.0,40800,95,Public Health
+"University of California, San Diego",312,25500.0,15.0,22800,91,Public Health
+Rice University,313,28000.0,13.0,40800,94,Public Health
+University of Wisconsin,318,21000.0,17.0,22800,94,Public Health
+Massachusetts Institute of Technology,311,32000.0,10.0,44400,90,Public Health
+Stanford University,311,31000.0,11.0,41000,93,Public Health
+California Institute of Technology,315,32500.0,10.0,40800,95,Public Health
+"University of California, Berkeley",318,26500.0,14.0,25254,94,Public Health
+Carnegie Mellon University,320,27500.0,14.0,44400,93,Public Health
+Princeton University,316,30500.0,11.0,42650,93,Public Health
+University of Texas at Austin,313,20500.0,17.0,22800,93,Public Health
+Harvard University,313,33000.0,9.0,42650,93,Public Health
+Texas A & M University,312,19500.0,19.0,18036,91,Public Health
+"University of Michigan, Ann Arbor",313,24500.0,16.0,22800,94,Public Health
+"University of Illinois, Urbana Champaign",313,23500.0,17.0,22800,94,Public Health
+Purdue University,324,20000.0,18.0,19464,95,Public Health
+University of Pennsylvania,322,28000.0,13.0,42650,93,Public Health
+University of Virginia,327,22000.0,16.0,39600,95,Public Health
+Rutgers University,325,18500.0,18.0,36144,97,Public Health
+University of Chicago,322,27000.0,14.0,44400,96,Public Health
+Northwestern University,326,26000.0,14.0,42000,93,Public Health
+University of Massachusetts,330,17500.0,19.0,37428,93,Public Health
+"University of Washington, Seattle",321,21500.0,16.0,25254,93,Public Health
+Washington University in St. Louis,323,28500.0,13.0,44400,95,Public Health
+University of Arizona,328,20000.0,18.0,21600,93,Public Health
+University of Notre Dame,321,25000.0,15.0,40800,93,Public Health
+Rensselaer Polytechnic Institute,323,24000.0,16.0,40800,95,Public Health
+"University of California, Irvine",329,22000.0,16.0,22800,96,Public Health
+"University of California, Santa Cruz",322,20500.0,17.0,22800,93,Public Health
+Yale University,321,30000.0,12.0,40800,97,Public Health
+"University of California, Los Angeles",328,26500.0,14.0,29604,96,Public Health
+"The University of Maryland, College Park",327,19000.0,19.0,22800,93,Public Health
+Cornell University,326,27500.0,14.0,25332,95,Public Health
+Columbia University,328,28500.0,13.0,42300,93,Public Health
+Dartmouth College,325,29000.0,12.0,40800,94,Public Health
+Brown University,323,30500.0,11.0,40800,97,Public Health
+John Hopkins University,321,29500.0,11.0,40800,97,Public Health
+Duke University,328,30000.0,12.0,40800,97,Public Health
+"University of California, San Diego",329,25500.0,15.0,22800,95,Public Health
+Rice University,330,28000.0,13.0,40800,94,Public Health
+University of Wisconsin,325,21000.0,17.0,22800,96,Public Health
+Massachusetts Institute of Technology,324,32000.0,10.0,44400,96,Public Health
+Stanford University,325,31000.0,11.0,41000,95,Public Health
+California Institute of Technology,325,32500.0,10.0,40800,95,Public Health
+"University of California, Berkeley",330,26500.0,14.0,25254,95,Public Health
+Carnegie Mellon University,325,27500.0,14.0,44400,97,Public Health
+Princeton University,326,30500.0,11.0,42650,94,Public Health
+University of Texas at Austin,328,20500.0,17.0,22800,94,Public Health
+Harvard University,329,33000.0,9.0,42650,94,Public Health
+Texas A & M University,328,19500.0,19.0,18036,95,Public Health
+"University of Michigan, Ann Arbor",329,24500.0,16.0,22800,93,Public Health
+"University of Illinois, Urbana Champaign",330,23500.0,17.0,22800,93,Public Health
+Massachusetts Institute of Technology (MIT),339,32000.0,10.0,44400,96,Public Health
+Stanford University,339,31000.0,11.0,41000,98,Public Health
+Harvard University,331,33000.0,9.0,42650,95,Public Health
+Princeton University,332,30500.0,11.0,42650,96,Public Health
+"University of California, Berkeley",337,26500.0,14.0,25254,96,Public Health
+Carnegie Mellon University,338,27500.0,14.0,44400,99,Public Health
+Texas A&M University,338,19500.0,19.0,18036,99,Public Health
+California Institute of Technology,336,32500.0,10.0,40800,98,Public Health
+University of Illinois at Urbana – Champaign,337,23500.0,17.0,22800,98,Public Health
+Yale University,335,30000.0,12.0,40800,98,Public Health
+"University of California, Los Angeles (UCLA)",332,26500.0,14.0,29604,96,Public Health
+"The University of Maryland, College Park",336,19000.0,19.0,22800,98,Public Health
+Cornell University,333,27500.0,14.0,25332,99,Public Health
+Columbia University,333,28500.0,13.0,42300,98,Public Health
+Dartmouth College,332,29000.0,12.0,40800,95,Public Health
+Brown University,336,30500.0,11.0,40800,96,Public Health
+John Hopkins University,340,29500.0,11.0,40800,96,Public Health
+Duke University,335,30000.0,12.0,40800,98,Public Health
+"University of California, San Diego",332,25500.0,15.0,22800,97,Public Health
+Rice University,335,28000.0,13.0,40800,95,Public Health
+University of Wisconsin,336,21000.0,17.0,22800,98,Public Health
+University of Texas at Austin,334,20500.0,17.0,22800,95,Public Health
+"University of Michigan, Ann Arbor",339,24500.0,16.0,22800,99,Public Health
+University of Pennsylvania,333,28000.0,13.0,42650,95,Public Health
+University of Virginia,337,22000.0,16.0,39600,99,Public Health
+Rutgers University,335,18500.0,18.0,36144,96,Public Health
+University of Chicago,333,27000.0,14.0,44400,99,Public Health
+Northwestern University,331,26000.0,14.0,42000,95,Public Health
+University of Massachusetts,333,17500.0,19.0,37428,99,Public Health
+"University of Washington, Seattle",338,21500.0,16.0,25254,97,Public Health
+Washington University in St. Louis,335,28500.0,13.0,44400,99,Public Health
+University of Arizona,336,20000.0,18.0,21600,98,Public Health
+University of Notre Dame,331,25000.0,15.0,40800,97,Public Health
+Rensselaer Polytechnic Institute,332,24000.0,16.0,40800,97,Public Health
+"University of California, Irvine",334,22000.0,16.0,22800,95,Public Health
+"University of California, Santa Cruz",334,20500.0,17.0,22800,95,Public Health
+California State University,291,12000.0,20.0,23496,79,Information Technology
+Cleveland State University,291,15500.0,18.0,18234,85,Information Technology
+Kent State University,292,14000.0,17.0,17342,85,Information Technology
+New York Institute of Technology,298,25000.0,16.0,36588,86,Information Technology
+University of Louisville,297,20500.0,15.0,17192,81,Information Technology
+University of Houston,298,18000.0,19.0,16888,78,Information Technology
+"California State University, Chico",298,13500.0,21.0,23496,80,Information Technology
+Oklahoma City University,295,22000.0,14.0,22530,81,Information Technology
+"State University of New York, Albany",299,16500.0,22.0,20952,84,Information Technology
+Arizona State University,308,20000.0,18.0,21912,87,Information Technology
+Stevens Institute of Technology,308,27500.0,14.0,37056,92,Information Technology
+University of Central Florida,301,18000.0,19.0,18588,86,Information Technology
+Drexel University,306,24000.0,16.0,38232,86,Information Technology
+Temple University,309,20000.0,17.0,36144,92,Information Technology
+University of Houston,305,18500.0,15.0,16888,88,Information Technology
+"University of Alabama, Huntsville",308,17000.0,20.0,17754,86,Information Technology
+"University of Maryland, Baltimore County",309,19500.0,19.0,22800,89,Information Technology
+Georgia State University,309,18500.0,15.0,20616,87,Information Technology
+University of Massachusetts Dartmouth,305,16500.0,20.0,37428,87,Information Technology
+San Diego University,307,23000.0,15.0,18901,90,Information Technology
+University of Wisconsin-Milwaukee,304,18500.0,15.0,19248,91,Information Technology
+Old Dominion University,309,17500.0,19.0,19140,88,Information Technology
+Santa Clara University,310,27000.0,13.0,39924,91,Information Technology
+Pennsylvania State University,313,20000.0,18.0,20880,94,Information Technology
+Ohio State University,311,19500.0,19.0,20760,92,Information Technology
+North Carolina State University,313,20500.0,17.0,20448,94,Information Technology
+Boston University,315,25000.0,15.0,36918,90,Information Technology
+"University of Colorado, Boulder",318,21500.0,16.0,21384,91,Information Technology
+Indiana University Bloomington,313,18500.0,18.0,19296,91,Information Technology
+Arizona State University,313,20000.0,18.0,21912,90,Information Technology
+"University of North Carolina, Greensboro",320,19000.0,19.0,19140,93,Information Technology
+Louisiana State University,312,17500.0,19.0,17952,93,Information Technology
+The University of Alabama at Birmingham,316,18000.0,19.0,17754,94,Information Technology
+New York University,318,27000.0,13.0,39888,93,Information Technology
+University of Iowa,313,17500.0,19.0,19248,90,Information Technology
+"University of Michigan, Dearborn",316,22000.0,16.0,20760,95,Information Technology
+"University of Texas, Dallas",320,19500.0,19.0,19656,93,Information Technology
+University of South Florida,314,17500.0,19.0,18588,91,Information Technology
+Colorado State University,312,18500.0,18.0,20400,92,Information Technology
+University of Florida,313,20000.0,18.0,20616,91,Information Technology
+Tulane University,319,24000.0,16.0,33732,94,Information Technology
+University of Southern California,315,28000.0,13.0,39696,92,Information Technology
+Rice University,322,28000.0,13.0,40800,97,Information Technology
+University of Michigan Ann Arbor,330,24500.0,16.0,22800,93,Information Technology
+Georgia Institute of Technology,327,23500.0,17.0,20616,94,Information Technology
+University of Illinois Urbana-Champaign,328,23500.0,17.0,22800,93,Information Technology
+Cornell University,325,27500.0,14.0,25332,94,Information Technology
+Johns Hopkins University,326,29500.0,11.0,40800,96,Information Technology
+Duke University,321,30000.0,12.0,40800,93,Information Technology
+Brown University,323,30500.0,11.0,40800,95,Information Technology
+Purdue University,326,20000.0,18.0,19464,97,Information Technology
+University of Texas Austin,322,20500.0,17.0,22800,96,Information Technology
+University of Wisconsin Madison,325,21000.0,17.0,22800,94,Information Technology
+Iowa State University,324,18500.0,18.0,17472,93,Information Technology
+Northwestern University,321,26000.0,14.0,42000,96,Information Technology
+Vanderbitt University,327,29000.0,12.0,40800,94,Information Technology
+University of Virginia,322,22000.0,16.0,39600,96,Information Technology
+University of Minnesota Twin Cities,321,21500.0,16.0,22800,96,Information Technology
+Rensselaer Polytechnic Institute,330,24000.0,16.0,40800,94,Information Technology
+University of Rochester,329,28000.0,12.0,41412,96,Information Technology
+University of Southern California,326,29000.0,11.0,39696,96,Information Technology
+University of Maryland College Park,327,26000.0,14.0,22800,96,Information Technology
+Ohio State University,330,25500.0,15.0,20760,96,Information Technology
+Virginia Tech - College of Engineering,327,23000.0,17.0,20448,96,Information Technology
+University of California Irvine,329,22000.0,16.0,22800,94,Information Technology
+Texas A&M University,322,21000.0,17.0,18036,93,Information Technology
+North Carolina State University,327,20500.0,17.0,20448,96,Information Technology
+University of Calfornia Santa Barbara,323,23500.0,16.0,22800,97,Information Technology
+University of Washington,330,24000.0,16.0,25254,97,Information Technology
+University of California Davis,322,22500.0,17.0,22800,94,Information Technology
+"University of Colorado, Boulder",323,21500.0,16.0,21384,97,Information Technology
+Massachusetts Institute of Technology (MIT),340,32000.0,10.0,44400,96,Information Technology
+Stanford University,336,31000.0,11.0,41000,96,Information Technology
+California Institute of Technology,334,32500.0,10.0,40800,95,Information Technology
+"University of California, Berkeley",339,26500.0,14.0,25254,99,Information Technology
+Carnegie Mellon University,340,27500.0,14.0,44400,95,Information Technology
+Princeton University,337,30500.0,11.0,42650,98,Information Technology
+University of Texas at Austin,331,20500.0,17.0,22800,95,Information Technology
+Harvard University,338,33000.0,9.0,42650,99,Information Technology
+Texas A & M University,338,19500.0,19.0,18036,97,Information Technology
+"University of Michigan, Ann Arbor",335,24500.0,16.0,22800,95,Information Technology
+"University of Illinois, Urbana Champaign",335,23500.0,17.0,22800,97,Information Technology
+"California State University, Fresno",293,12000.0,20.0,23496,86,Bio-Medical Science
+Cleveland State University,295,15500.0,18.0,18234,80,Bio-Medical Science
+Kent State University,292,14000.0,17.0,17342,87,Bio-Medical Science
+New York Institute of Technology,299,25000.0,16.0,36588,84,Bio-Medical Science
+University of Louisville,290,20500.0,15.0,17192,79,Bio-Medical Science
+University of Houston,298,18000.0,19.0,16888,84,Bio-Medical Science
+University of Hawaii,291,22000.0,14.0,24636,84,Bio-Medical Science
+University of Denver,294,23000.0,16.0,40200,84,Bio-Medical Science
+Loyola University Chicago,290,21000.0,17.0,38952,86,Bio-Medical Science
+"Illinois State University, Normal",298,18500.0,15.0,19296,82,Bio-Medical Science
+"Temple University, PA",290,20000.0,17.0,36144,82,Bio-Medical Science
+Jackson State University,300,16000.0,19.0,16080,85,Bio-Medical Science
+Ferris State University,295,14500.0,20.0,19248,81,Bio-Medical Science
+"University of New Haven, CT",298,24000.0,16.0,41280,85,Bio-Medical Science
+"Farleigh Dickinson University, New Jersey",291,26000.0,14.0,35124,80,Bio-Medical Science
+"State University of New York, Albany",298,16500.0,22.0,20952,86,Bio-Medical Science
+College of William & Mary,300,21500.0,16.0,39204,85,Bio-Medical Science
+East Tennessee State University,297,18000.0,19.0,18216,81,Bio-Medical Science
+"Southwest Texas State University, San Marcos",299,15500.0,18.0,18432,85,Bio-Medical Science
+DePaul University,295,22000.0,14.0,38520,81,Bio-Medical Science
+Mc Neese State University,296,14500.0,20.0,16332,79,Bio-Medical Science
+Oakland University,291,20000.0,17.0,20760,81,Bio-Medical Science
+Sam Houston State University,291,15000.0,18.0,17544,80,Bio-Medical Science
+San Jose State University,296,17000.0,20.0,23364,84,Bio-Medical Science
+William Patterson University,298,16500.0,17.0,37428,78,Bio-Medical Science
+Western Carolina University,296,14000.0,19.0,19140,83,Bio-Medical Science
+University of Central Oklahoma,290,16500.0,17.0,18900,87,Bio-Medical Science
+Widener University,290,22000.0,14.0,38232,84,Bio-Medical Science
+"University of St Thomas, MN",299,23000.0,16.0,22800,82,Bio-Medical Science
+Western Illinois University,293,13500.0,21.0,19296,84,Bio-Medical Science
+"Bowling Green State University, Ohio",296,15500.0,18.0,20400,79,Bio-Medical Science
+Delaware State University,298,17000.0,20.0,17754,84,Bio-Medical Science
+"State University of New York, New Paltz",290,16000.0,19.0,22800,86,Bio-Medical Science
+Central Michigan University,294,14500.0,20.0,19248,85,Bio-Medical Science
+University of Southern Mississippi,291,16000.0,19.0,18720,86,Bio-Medical Science
+Indiana University South Bend,293,15000.0,18.0,19296,79,Bio-Medical Science
+Saint Mary’s University San Antonio,295,18500.0,15.0,18060,81,Bio-Medical Science
+"Shippensburg University, PA",297,17500.0,19.0,20880,79,Bio-Medical Science
+East Tennessee State University,291,18000.0,19.0,18216,85,Bio-Medical Science
+"University of Texas, Pan America",295,16500.0,17.0,19656,83,Bio-Medical Science
+Oklahoma City University,298,22000.0,14.0,22530,80,Bio-Medical Science
+Frostburg State University,299,15500.0,18.0,22800,78,Bio-Medical Science
+"La Salle University, PA",297,20000.0,17.0,37428,88,Bio-Medical Science
+Alfred University,296,23000.0,16.0,37284,78,Bio-Medical Science
+Monmouth University-New Jersey,295,26000.0,14.0,37428,82,Bio-Medical Science
+Southern New Hampshire University,296,21000.0,17.0,37428,87,Bio-Medical Science
+Roosevelt University Chicago,296,22500.0,16.0,37428,86,Bio-Medical Science
+Drake University,292,24000.0,16.0,35520,80,Bio-Medical Science
+Duquesne University,290,25000.0,15.0,37428,78,Bio-Medical Science
+Georgia College & State University,298,13000.0,18.0,18096,78,Bio-Medical Science
+Arizona State University,306,18000.0,20.0,21912,86,Bio-Medical Science
+Stevens Institute of Technology,308,25000.0,15.0,37056,88,Bio-Medical Science
+University of Central Florida,302,15000.0,22.0,18588,85,Bio-Medical Science
+Southern Methodist University,310,22000.0,17.0,38232,92,Bio-Medical Science
+University of Nebraska,307,17000.0,19.0,19248,85,Bio-Medical Science
+New Jersey Institute of Technology,305,20000.0,18.0,36588,85,Bio-Medical Science
+University of Tampa,310,19000.0,20.0,18588,85,Bio-Medical Science
+University of Houston,307,16000.0,21.0,16888,91,Bio-Medical Science
+Colorado State University,309,18500.0,19.0,20400,92,Bio-Medical Science
+Rochester Institute of Technology,303,23000.0,16.0,38232,90,Bio-Medical Science
+Louisiana State University,307,17500.0,20.0,17952,89,Bio-Medical Science
+Auburn University,310,19500.0,18.0,17192,86,Bio-Medical Science
+University of Kentucky,309,16500.0,21.0,17192,92,Bio-Medical Science
+University of Kansas,308,17500.0,20.0,19248,92,Bio-Medical Science
+North Dakota State University,310,15500.0,22.0,17472,85,Bio-Medical Science
+Drexel University,302,24000.0,16.0,38232,89,Bio-Medical Science
+University of Arkansas,302,16000.0,21.0,17192,87,Bio-Medical Science
+University of Dayton,306,21000.0,17.0,38232,92,Bio-Medical Science
+University of New Mexico,309,17500.0,20.0,18096,87,Bio-Medical Science
+Villanova University,303,23500.0,16.0,38232,85,Bio-Medical Science
+Wright State University,308,20000.0,18.0,18096,85,Bio-Medical Science
+Illinois Institute of Technology,304,22000.0,17.0,38232,92,Bio-Medical Science
+Kansas State University,309,17000.0,19.0,17472,89,Bio-Medical Science
+Missouri State University,309,16500.0,21.0,17192,88,Bio-Medical Science
+Northeastern University,308,23000.0,16.0,38232,90,Bio-Medical Science
+Oklahoma State University,301,18000.0,19.0,17472,85,Bio-Medical Science
+Oregon State University,304,17000.0,20.0,18096,86,Bio-Medical Science
+State University of New York Albany,305,16500.0,21.0,20952,92,Bio-Medical Science
+Tennessee Technological University,303,19000.0,20.0,17192,91,Bio-Medical Science
+Texas Tech University,309,18000.0,19.0,18096,91,Bio-Medical Science
+"University of Alabama, Huntsville",308,17500.0,20.0,17754,92,Bio-Medical Science
+University of Connecticut,308,20500.0,18.0,37428,90,Bio-Medical Science
+University of Louisiana,303,16500.0,21.0,17192,88,Bio-Medical Science
+University of Nevada,302,17000.0,20.0,18096,91,Bio-Medical Science
+University of Oklahoma,309,18500.0,19.0,17472,88,Bio-Medical Science
+University of Pittsburgh,306,22500.0,17.0,38232,85,Bio-Medical Science
+"University of Texas, Arlington",310,16500.0,21.0,18096,89,Bio-Medical Science
+Wayne State University,308,19500.0,18.0,18096,91,Bio-Medical Science
+West Virginia University,309,17000.0,20.0,17192,89,Bio-Medical Science
+Georgia State University,305,20000.0,18.0,20616,92,Bio-Medical Science
+University of Massachusetts Dartmouth,304,19000.0,20.0,37428,88,Bio-Medical Science
+San Diego State University,301,18000.0,19.0,18901,86,Bio-Medical Science
+University of Wisconsin-Milwaukee,303,17500.0,20.0,19248,88,Bio-Medical Science
+Old Dominion University,302,16500.0,21.0,19140,92,Bio-Medical Science
+Santa Clara University,306,23500.0,16.0,39924,87,Bio-Medical Science
+Duke University (Master of Biomedical Sciences Program),304,30000.0,12.0,40800,92,Bio-Medical Science
+"University of Oklahoma (Norman, Oklahoma)",305,18500.0,19.0,17472,92,Bio-Medical Science
+"Kansas State University (Manhattan, Kansas)",305,17000.0,20.0,17472,92,Bio-Medical Science
+"West Virginia University (Morgantown, West Virginia)",310,17000.0,20.0,17192,92,Bio-Medical Science
+"Institute for Biomedical Sciences, Georgia State University",301,21000.0,17.0,20616,91,Bio-Medical Science
+Pennsylvania State University,320,22000.0,17.0,20880,90,Bio-Medical Science
+Ohio State University,315,21500.0,17.0,20760,93,Bio-Medical Science
+North Carolina State University,320,20500.0,17.0,20448,94,Bio-Medical Science
+Boston University,317,23000.0,17.0,36918,90,Bio-Medical Science
+"University of Colorado, Boulder",314,18500.0,17.0,21384,95,Bio-Medical Science
+Indiana University Bloomington,316,17500.0,17.0,19296,95,Bio-Medical Science
+Arizona State University,315,18000.0,17.0,21912,90,Bio-Medical Science
+"University of North Carolina, Greensboro",311,20000.0,17.0,19140,95,Bio-Medical Science
+Louisiana State University,319,17500.0,17.0,17952,95,Bio-Medical Science
+The University of Alabama at Birmingham,316,17000.0,17.0,17754,93,Bio-Medical Science
+New York University,316,24000.0,17.0,39888,91,Bio-Medical Science
+University of Iowa,315,17000.0,17.0,19248,91,Bio-Medical Science
+"University of Michigan, Dearborn",318,20500.0,17.0,20760,91,Bio-Medical Science
+"University of Texas, Dallas",313,18000.0,17.0,19656,95,Bio-Medical Science
+University of South Florida,320,16500.0,17.0,18588,90,Bio-Medical Science
+Colorado State University,313,18500.0,17.0,20400,95,Bio-Medical Science
+University of Florida,317,19000.0,17.0,20616,90,Bio-Medical Science
+Tulane University,318,23500.0,17.0,33732,93,Bio-Medical Science
+University of Southern California,314,25000.0,17.0,39696,93,Bio-Medical Science
+Eastern Michigan University,319,17000.0,17.0,18096,94,Bio-Medical Science
+University of Central Arkansas,313,16500.0,17.0,17192,91,Bio-Medical Science
+Florida Atlantic University,313,18500.0,17.0,18588,95,Bio-Medical Science
+Harvard University (Biological and Biomedical Sciences),318,30500.0,17.0,42650,90,Bio-Medical Science
+"Institute for Biomedical Sciences, Georgia State University",320,21000.0,17.0,20616,94,Bio-Medical Science
+Florida Atlantic University,326,18500.0,17.0,18588,94,Bio-Medical Science
+Regis University,330,20500.0,17.0,38232,93,Bio-Medical Science
+Tufts University School of Medicine,326,29000.0,17.0,42650,95,Bio-Medical Science
+Baylor College of Medicine,323,28500.0,17.0,42650,95,Bio-Medical Science
+John Hopkins University,338,28000.0,17.0,40800,99,Bio-Medical Science
+Kent State University,336,17500.0,17.0,17342,96,Bio-Medical Science
+The George Washington University,336,22000.0,17.0,42650,98,Bio-Medical Science
+Binghamton University,335,19500.0,17.0,37428,95,Bio-Medical Science
+North Caroline State University,336,20500.0,17.0,20448,95,Bio-Medical Science
+Thomas Jefferson University,340,25500.0,17.0,42650,99,Bio-Medical Science
+Mercer University,333,21000.0,17.0,18096,96,Bio-Medical Science
+Florida Institute of Technology,337,23000.0,17.0,18588,99,Bio-Medical Science
+Temple University,337,21000.0,17.0,36144,99,Bio-Medical Science
+Southwestern Oklahoma State University,334,15500.0,17.0,17472,95,Bio-Medical Science
+California State University,297,10000.0,20.0,23496,86,Finance
+Cleveland State UNiversoty,298,12000.0,18.0,18234,88,Finance
+Kent state University,295,11000.0,17.0,17342,81,Finance
+New York Institute of Technology,291,20000.0,16.0,36588,83,Finance
+University of Houston,293,15000.0,19.0,16888,81,Finance
+Oklahoma City University,292,18000.0,14.0,22530,88,Finance
+texas A & M Universty,298,16000.0,19.0,18036,79,Finance
+Lamar University,292,14000.0,20.0,16332,83,Finance
+Arizona State University,307,15000.0,18.0,21912,87,Finance
+Stevens Institute of Technology,301,22000.0,14.0,37056,85,Finance
+University of Central Florida,303,14000.0,19.0,18588,91,Finance
+Drexel University,307,20000.0,16.0,38232,90,Finance
+Northeastern University,306,19000.0,17.0,38232,92,Finance
+University of North Texas,310,13000.0,21.0,17472,86,Finance
+Northern Illinois University,306,12500.0,22.0,19248,87,Finance
+University of Oklahoma,309,14500.0,20.0,17472,86,Finance
+Oklahoma State University-Stillwater,310,15000.0,18.0,17472,85,Finance
+University of South Carolina,307,16000.0,19.0,18720,85,Finance
+Old Dominion University,301,13500.0,21.0,19140,86,Finance
+University of South Florida,306,14000.0,19.0,18588,90,Finance
+Rochester Institute of Technology,304,21000.0,16.0,38232,90,Finance
+University of Texas at Arlington,307,15500.0,18.0,18096,88,Finance
+"Rutgers University, Newark",302,16500.0,17.0,36144,90,Finance
+University of Texas at Dallas,305,16000.0,19.0,19656,92,Finance
+San Diego State University,301,17000.0,20.0,18901,87,Finance
+University of Texas at San Antonio,301,16500.0,17.0,18432,90,Finance
+San Francisco State University,302,17500.0,19.0,23364,91,Finance
+University of Toledo,309,13500.0,21.0,19248,91,Finance
+San Jose State University,306,17000.0,20.0,23364,90,Finance
+University of Wisconsin-Milwaukee,308,14500.0,20.0,19248,90,Finance
+Santa Clara University,309,22000.0,14.0,39924,88,Finance
+Utah State University,306,13500.0,21.0,18096,86,Finance
+"Southern Illinois University, Carbondale",307,12500.0,22.0,17192,86,Finance
+Washington State University,309,14500.0,20.0,18096,85,Finance
+Southern Methodist University,303,20000.0,16.0,38232,87,Finance
+Wayne State University,310,16500.0,17.0,18096,87,Finance
+"State University of New York, Albany",301,13000.0,21.0,20952,88,Finance
+"West Virginia University, Morgantown",307,14000.0,19.0,17192,91,Finance
+State University of New York at Binghamton,302,13500.0,21.0,37428,92,Finance
+Western Michigan University,307,12000.0,18.0,19248,87,Finance
+Pennsylvania State University,314,16000.0,19.0,20880,92,Finance
+Ohio State University:,316,15500.0,18.0,20760,91,Finance
+North Carolina State University,316,16000.0,19.0,20448,90,Finance
+Boston University,311,20000.0,16.0,36918,92,Finance
+"University of Colorado, Boulder",314,17000.0,20.0,21384,94,Finance
+Indiana University Bloomington,311,15000.0,18.0,19296,95,Finance
+"University of North Carolina, Greensboro",317,14500.0,20.0,19140,94,Finance
+Louisiana State University,318,13500.0,21.0,17952,90,Finance
+The University of Alabama at Birmingham,313,14000.0,19.0,17754,92,Finance
+New York University,319,21000.0,16.0,39888,93,Finance
+University of Iowa,314,13500.0,21.0,19248,95,Finance
+"University of Michigan, Dearborn:",320,17000.0,20.0,20760,94,Finance
+"University of Texas, Dallas",314,16000.0,19.0,19656,92,Finance
+University of South Florida,315,14000.0,19.0,18588,91,Finance
+Colorado State University,315,15000.0,18.0,20400,90,Finance
+University of Florida,316,16000.0,19.0,20616,92,Finance
+Tulane University,315,20000.0,16.0,33732,91,Finance
+University of Southern California,320,22000.0,14.0,39696,92,Finance
+University of Pennsylvania (UPenn) - College of Engineering,323,23000.0,17.0,42650,94,Finance
+Rice University - George R. Brown School of Engineering,323,24000.0,16.0,40800,96,Finance
+"University of Michigan, Ann Arbor - College of Engineering",326,22500.0,17.0,22800,96,Finance
+Georgia Institute of Technology - College of Engineering,323,22000.0,15.0,20616,96,Finance
+"University of Illinois, Urbana-Champaign - College of Engineering",322,21500.0,16.0,22800,97,Finance
+Cornell University - College of Engineering,328,28000.0,12.0,25332,95,Finance
+Johns Hopkins University - Whiting School of Engineering,322,29500.0,11.0,40800,94,Finance
+Duke University - Pratt School of Engineering,329,30000.0,12.0,40800,97,Finance
+Brown University - School of Engineering,330,30500.0,11.0,40800,96,Finance
+Purdue University - College of Engineering,329,20000.0,18.0,19464,94,Finance
+Massachusetts Institute of Technology,336,32000.0,10.0,44400,95,Finance
+Stanford University,337,31000.0,11.0,41000,95,Finance
+"University of California, Berkeley",335,26500.0,14.0,25254,98,Finance
+"University of Michigan, Ann-Arbor",336,24500.0,16.0,22800,98,Finance
+University of Southern California,335,28000.0,13.0,39696,98,Finance
+Georgia Institute of Technology,340,22000.0,15.0,20616,95,Finance
+Ohio State University,340,25500.0,15.0,20760,99,Finance
+Boston University,340,25000.0,15.0,36918,99,Finance
+"University of Texas, Austin",337,20500.0,17.0,22800,97,Finance
+"California State University, Northridge",297,15000.0,20.0,23496,85,Engineering Management
+"California State University, Fresno",292,14000.0,21.0,23496,85,Engineering Management
+Cleveland State University,300,16500.0,19.0,18234,80,Engineering Management
+Kent State University,293,17000.0,18.0,17342,80,Engineering Management
+New York Institute of Technology,293,23000.0,16.0,36588,79,Engineering Management
+University of Louisville,292,19000.0,20.0,17192,85,Engineering Management
+University of Houston,298,18000.0,19.0,16888,80,Engineering Management
+Unversity of Texas - Arlington,290,17500.0,20.0,18096,80,Engineering Management
+New Jersey Institute of Technology,292,21500.0,17.0,36588,81,Engineering Management
+University of Illinois - Chicago,300,20000.0,18.0,38520,82,Engineering Management
+Stony Brook University,296,19500.0,18.0,37428,86,Engineering Management
+University of Marylnad - College Park,297,22000.0,17.0,22800,85,Engineering Management
+Arizona State University - Tempe Campus,300,19500.0,18.0,21912,87,Engineering Management
+Arizona State University,310,19000.0,20.0,21912,85,Engineering Management
+Stevens Institute of Technology,310,25000.0,15.0,37056,85,Engineering Management
+University of Central Florida,309,16500.0,19.0,18588,85,Engineering Management
+Drexel University,302,23500.0,16.0,38232,90,Engineering Management
+University of North Carolina at Charlotte,306,20500.0,18.0,20448,90,Engineering Management
+Northeastern University,302,24000.0,16.0,38232,90,Engineering Management
+University of North Texas,308,18000.0,19.0,17472,86,Engineering Management
+Northern Illinois University,304,17500.0,20.0,19248,88,Engineering Management
+University of Oklahoma,301,18500.0,19.0,17472,88,Engineering Management
+Oklahoma State University-Stillwater,307,18000.0,19.0,17472,85,Engineering Management
+University of South Carolina,308,19000.0,20.0,18720,90,Engineering Management
+Old Dominion University,306,17500.0,20.0,19140,90,Engineering Management
+University of South Florida,301,18000.0,19.0,18588,90,Engineering Management
+Rochester Institute of Technology,308,24500.0,15.0,38232,88,Engineering Management
+University of Texas at Arlington,310,17500.0,20.0,18096,88,Engineering Management
+"Rutgers University, Newark",306,21500.0,17.0,36144,87,Engineering Management
+University of Texas at Dallas,305,18000.0,19.0,19656,86,Engineering Management
+San Diego State University,306,18500.0,19.0,18901,90,Engineering Management
+University of Texas at San Antonio,310,17500.0,20.0,18432,91,Engineering Management
+San Francisco State University,302,20000.0,18.0,23364,89,Engineering Management
+University of Toledo,309,17500.0,20.0,19248,90,Engineering Management
+San Jose State University,305,19000.0,20.0,23364,91,Engineering Management
+University of Wisconsin-Milwaukee,305,17000.0,19.0,19248,92,Engineering Management
+Santa Clara University,307,23500.0,16.0,39924,89,Engineering Management
+Utah State University,304,16500.0,19.0,18096,87,Engineering Management
+"Southern Illinois University, Carbondale",307,17500.0,20.0,17192,85,Engineering Management
+Washington State University,301,18000.0,19.0,18096,85,Engineering Management
+Southern Methodist University,301,22000.0,17.0,38232,91,Engineering Management
+Wayne State University,307,19500.0,18.0,18096,87,Engineering Management
+"State University of New York, Albany",309,19000.0,20.0,20952,86,Engineering Management
+"West Virginia University, Morgantown",308,17000.0,19.0,17192,88,Engineering Management
+State University of New York at Binghamton,310,19500.0,18.0,37428,86,Engineering Management
+Western Michigan University,301,16500.0,19.0,19248,85,Engineering Management
+Pennsylvania State University,316,22500.0,17.0,20880,91,Engineering Management
+Ohio State University,312,21500.0,16.0,20760,90,Engineering Management
+North Carolina State University,319,20500.0,18.0,20448,90,Engineering Management
+Boston University,318,25000.0,14.0,36918,95,Engineering Management
+"University of Colorado, Boulder",319,20500.0,16.0,21384,91,Engineering Management
+Indiana University Bloomington,315,18000.0,18.0,19296,95,Engineering Management
+Arizona State University,311,19500.0,17.0,21912,90,Engineering Management
+"University of North Carolina, Greensboro",317,17500.0,19.0,19140,94,Engineering Management
+Louisiana State University,320,18500.0,18.0,17952,91,Engineering Management
+The University of Alabama at Birmingham,316,21000.0,17.0,17754,92,Engineering Management
+New York University,316,24000.0,15.0,39888,93,Engineering Management
+University of Iowa,316,20000.0,18.0,19248,90,Engineering Management
+"University of Michigan, Dearborn",316,23000.0,16.0,20760,94,Engineering Management
+"University of Texas, Dallas",320,18500.0,18.0,19656,93,Engineering Management
+University of South Florida,312,17500.0,19.0,18588,95,Engineering Management
+Colorado State University,313,19000.0,17.0,20400,93,Engineering Management
+University of Florida,320,19500.0,18.0,20616,93,Engineering Management
+Tulane University,313,23500.0,16.0,33732,95,Engineering Management
+University of Southern California,316,25500.0,15.0,39696,90,Engineering Management
+Duke University - Pratt School of Engineering,326,26000.0,14.0,40800,96,Engineering Management
+Brown University - School of Engineering,328,27000.0,13.0,40800,97,Engineering Management
+Purdue University - College of Engineering,321,22500.0,17.0,19464,96,Engineering Management
+University of Texas Austin - Cockrell School of Engineering,326,23000.0,16.0,22800,96,Engineering Management
+University of Wisconsin Madison - College of Engineering,328,21500.0,17.0,22800,97,Engineering Management
+Iowa State University - College of Engineering,327,20000.0,18.0,19248,93,Engineering Management
+Northwestern University - Robert R. McCormick School of Engineering,329,26500.0,14.0,42650,95,Engineering Management
+Vanderbilt University - School of Engineering,329,25000.0,15.0,40800,95,Engineering Management
+University of Virginia - School of Engineering and Applied Sciences,330,22000.0,17.0,40800,97,Engineering Management
+University of Minnesota Twin Cities - College of Science and Engineering,327,20500.0,18.0,22800,93,Engineering Management
+Rensselaer Polytechnic Institute - School of Engineering,329,24500.0,16.0,42650,94,Engineering Management
+University of Rochester - Hajim School of Engineering and Applied Sciences,327,23000.0,16.0,40800,93,Engineering Management
+University of Southern California - Viterbi School of Engineering,323,25500.0,15.0,39696,94,Engineering Management
+University of Maryland College Park - A. James Clark School of Engineering,324,22000.0,17.0,22800,96,Engineering Management
+Ohio State University - College of Engineering,323,21500.0,16.0,20760,94,Engineering Management
+Virginia Tech - College of Engineering,327,21500.0,16.0,22800,96,Engineering Management
+University of California Irvine - Henry Samueli School of Engineering,328,20000.0,18.0,25254,95,Engineering Management
+University of Pennsylvania (UPenn),337,26000.0,14.0,42650,97,Engineering Management
+Rice University,335,27000.0,13.0,40800,99,Engineering Management
+"University of Michigan, Ann Arbor",338,23500.0,16.0,22800,97,Engineering Management
+Georgia Institute of Technology,336,24500.0,15.0,20616,99,Engineering Management
+University of Illinois at Urbana-Champaign,339,23000.0,16.0,22800,99,Engineering Management
+Cornell University,333,25000.0,15.0,25332,96,Engineering Management
+Johns Hopkins University,340,26500.0,14.0,40800,96,Engineering Management
+Duke University,337,27000.0,13.0,40800,98,Engineering Management
+"Texas A&M University, College Station",334,22000.0,17.0,22800,99,Engineering Management
+University of Illinois – Urbana Champaign,340,23000.0,16.0,22800,98,Engineering Management
+Kent State University,296,17000.0,18.0,17342,78,Electronics
+New York Institute of Technology,299,23000.0,16.0,36588,87,Electronics
+University of Houston,294,18000.0,19.0,16888,79,Electronics
+"California State University, Chico",290,16000.0,20.0,23496,84,Electronics
+Oklahoma City University,297,20000.0,18.0,22530,79,Electronics
+"State University of New York, Albany",298,19000.0,20.0,20952,78,Electronics
+Bradley University,294,22000.0,17.0,19248,84,Electronics
+University of Bridgeport,294,18500.0,18.0,36588,79,Electronics
+University of Dayton,296,21000.0,17.0,38232,86,Electronics
+"Texas A & M University, Kingsville",298,17500.0,20.0,18036,80,Electronics
+"University of West Florida, Pensacola",291,16500.0,19.0,18588,81,Electronics
+Eastern Michigan University,290,18000.0,19.0,18096,86,Electronics
+"Minnesota State University, Mankato",300,17500.0,20.0,19248,87,Electronics
+"Suffolk University, MA",299,22500.0,17.0,36918,80,Electronics
+"University of North Carolina, Greensboro",295,20500.0,18.0,19140,78,Electronics
+New Mexico Institute of Mining & Tech.,297,18500.0,18.0,18096,79,Electronics
+University of Central Arkansas,292,17000.0,19.0,17192,79,Electronics
+"Southeastern University, DC",296,21500.0,17.0,42650,86,Electronics
+University of Hawaii,295,19000.0,20.0,20616,86,Electronics
+"University of Texas, Tyler",298,17500.0,20.0,18432,84,Electronics
+Eastern Washington University,298,18000.0,19.0,21384,80,Electronics
+"Southern Oregon University, Ashland",298,17500.0,20.0,18096,80,Electronics
+University of Texas at San Antonio,298,18000.0,19.0,18432,81,Electronics
+State University of West Georgia,292,16500.0,19.0,18720,79,Electronics
+Ball State University,299,19500.0,18.0,19248,82,Electronics
+University of Texas El Paso,298,17500.0,20.0,18096,84,Electronics
+Columbus State University,295,18000.0,19.0,18720,79,Electronics
+Arkansas State University,299,17500.0,20.0,17192,78,Electronics
+University of Denver,291,22000.0,17.0,42650,81,Electronics
+North Dakota State University,290,20500.0,18.0,17472,88,Electronics
+Dakota State University,297,18500.0,18.0,17472,78,Electronics
+St Cloud State University,291,17500.0,20.0,19248,79,Electronics
+Marquette University,300,21500.0,17.0,38232,78,Electronics
+"Temple University, PA",292,20000.0,18.0,36144,85,Electronics
+City College of the City of New York,292,19500.0,18.0,36588,88,Electronics
+Northeastern Illinois University,291,20500.0,18.0,38520,83,Electronics
+University of Detroit Mercy,300,22500.0,17.0,36144,87,Electronics
+University of Arkansas Little Rock,295,19000.0,20.0,17192,80,Electronics
+"California State University, Fresno",300,16000.0,20.0,23496,87,Electronics
+Alabama A & M University,297,17000.0,19.0,17754,88,Electronics
+"Widener University, Pennsylvania",297,21500.0,17.0,36144,79,Electronics
+Alcorn State University,291,18000.0,19.0,17192,79,Electronics
+Gannon University,298,20000.0,18.0,36588,86,Electronics
+University of Findlay-Ohio,292,18500.0,18.0,19248,78,Electronics
+"San Diego State University, California",293,19500.0,18.0,18901,82,Electronics
+Ball State University,291,19500.0,18.0,19248,85,Electronics
+Northwestern Polytechnic University,291,21500.0,17.0,18096,82,Electronics
+Jacksonville State University,291,18000.0,19.0,17192,80,Electronics
+Saint Joseph University,293,22000.0,17.0,38232,81,Electronics
+Chapman University,293,20500.0,18.0,39696,79,Electronics
+Ferris State University,299,18000.0,19.0,19248,84,Electronics
+"University of New Haven, CT",296,20000.0,18.0,36588,81,Electronics
+"Farleigh Dickinson University, New Jersey",300,21000.0,17.0,36588,84,Electronics
+College of William & Mary,300,19500.0,18.0,22800,80,Electronics
+East Tennessee State University,293,17500.0,20.0,17472,83,Electronics
+"Southwest Texas State University, San Marcos",293,18000.0,19.0,18432,88,Electronics
+DePaul University,292,22500.0,17.0,38520,83,Electronics
+Mc Neese State University,298,15000.0,20.0,16332,79,Electronics
+Oakland University,292,16500.0,19.0,19248,86,Electronics
+Sam Houston State University,296,17000.0,18.0,17472,79,Electronics
+San Jose state University,299,23000.0,16.0,23364,81,Electronics
+William Patterson University,296,18000.0,19.0,36144,85,Electronics
+Western Carolina University,299,16000.0,20.0,18720,82,Electronics
+University of Central Oklahoma,294,20000.0,18.0,17472,83,Electronics
+Widener University,292,19000.0,20.0,36144,78,Electronics
+"University of St Thomas, MN",291,22000.0,17.0,38232,81,Electronics
+Western Illinois university,292,18500.0,18.0,19248,83,Electronics
+"Bowling Green State University, Ohio",296,21000.0,17.0,19248,88,Electronics
+Delaware State University,298,17500.0,20.0,18234,82,Electronics
+"State University of New York, New Paltz",298,16500.0,19.0,37428,79,Electronics
+Central Michigan University,292,18000.0,19.0,19248,87,Electronics
+University of Southern Mississippi,295,17500.0,20.0,17754,81,Electronics
+Indiana University South Bend,294,22500.0,17.0,19296,83,Electronics
+Saint Mary’s University San Antonio,300,20000.0,18.0,18432,88,Electronics
+"Shippensburg University, PA",291,18500.0,18.0,20880,86,Electronics
+East Tennessee State University,291,17000.0,19.0,17472,86,Electronics
+"University of Texas, Pan America",293,21500.0,17.0,18432,87,Electronics
+Jackson State University,296,19000.0,20.0,17754,78,Electronics
+Oklahoma City University,295,17500.0,20.0,22530,81,Electronics
+Frostburg State University,300,18000.0,19.0,18234,87,Electronics
+"La Salle University, PA",299,17500.0,20.0,36144,86,Electronics
+Alfred University,292,18000.0,19.0,37428,79,Electronics
+Monmouth University-New Jersey,299,21500.0,17.0,36588,87,Electronics
+Southern New Hampshire University,292,19000.0,20.0,38232,83,Electronics
+Roosevelt University Chicago,296,17500.0,20.0,38520,84,Electronics
+Drake university,298,19500.0,18.0,38232,82,Electronics
+Shippensburg University of Pennsylvania,298,18000.0,19.0,20880,81,Electronics
+Duquesne University,290,22500.0,17.0,36144,83,Electronics
+Georgia College & State University,297,20000.0,18.0,18720,85,Electronics
+Georgia Southern University,298,18000.0,19.0,18720,87,Electronics
+Kennesaw State University,292,17500.0,20.0,18720,85,Electronics
+Long Island University,298,16500.0,19.0,36588,81,Electronics
+Loyola University Chicago,296,20000.0,18.0,38520,86,Electronics
+Northern Kentucky University,298,19500.0,18.0,17342,87,Electronics
+Lawrence Tech University,298,22500.0,17.0,38232,86,Electronics
+Clark Atlanta University,296,18000.0,19.0,20616,85,Electronics
+"California State University, Northridge",297,20500.0,18.0,23496,88,Electronics
+"Catholic University of America, Washington",294,19000.0,20.0,42650,81,Electronics
+"Ohio Dominican College (University), Ohio",298,20500.0,18.0,18234,78,Electronics
+"Ferris State University, Michigan",294,22000.0,17.0,19248,80,Electronics
+"Fitchburg State University, MA",299,21500.0,17.0,36918,88,Electronics
+"Hawaii Pacific University, Hawaii",295,18000.0,19.0,25254,79,Electronics
+"Northwood University, Michigan",293,17500.0,20.0,19248,80,Electronics
+"Johnson and Wales University, RI",291,18500.0,18.0,36588,78,Electronics
+"Governors State University, Parkway IL",294,19000.0,20.0,38520,80,Electronics
+"Troy State University, Alabama",295,16500.0,19.0,17754,80,Electronics
+Stevens Institute of Technology,295,17000.0,20.0,37056,78,Electronics
+"Florida Atlantic University, Boca Raton",299,22000.0,17.0,18588,87,Electronics
+Golden Gate University,300,20000.0,18.0,39696,84,Electronics
+Howard University,294,19500.0,18.0,42650,87,Electronics
+Dominican University,298,21000.0,17.0,38520,82,Electronics
+San Diego State University,308,17500.0,20.0,18901,91,Electronics
+Kent State University,302,18000.0,19.0,17342,89,Electronics
+Northern Illinois University,306,17500.0,20.0,19248,92,Electronics
+Western Kentucky University,307,19000.0,20.0,17952,91,Electronics
+Central Michigan University,306,18000.0,19.0,19248,87,Electronics
+Cleveland State University,301,18500.0,18.0,18234,89,Electronics
+Texas A&M University,304,21000.0,17.0,22800,91,Electronics
+California State University,310,20500.0,18.0,23496,85,Electronics
+Western Carolina University,307,19500.0,18.0,18720,89,Electronics
+University of Nevada,307,17000.0,19.0,18096,89,Electronics
+University of South Florida,306,21500.0,17.0,18588,87,Electronics
+SUNY Binghamton,308,18000.0,19.0,37428,88,Electronics
+Southern Methodist University,302,17500.0,20.0,38232,92,Electronics
+Stevens Institute of Technology,309,20000.0,18.0,37056,87,Electronics
+University of Nebraska,310,16500.0,19.0,19248,89,Electronics
+New Jersey Institute of Technology,310,22500.0,17.0,36588,87,Electronics
+University of Tampa,308,19000.0,20.0,18588,92,Electronics
+University of Houston,303,17500.0,20.0,16888,89,Electronics
+Colorado State University,310,18000.0,19.0,20400,91,Electronics
+Rochester Institute of Technology,309,17500.0,20.0,38232,90,Electronics
+Louisiana State University,304,19000.0,20.0,17952,87,Electronics
+Auburn University,301,21500.0,17.0,17754,85,Electronics
+University of Kentucky,310,18500.0,18.0,17192,86,Electronics
+University of Kansas,303,22000.0,17.0,17472,92,Electronics
+North Dakota State University,301,20500.0,18.0,17472,89,Electronics
+Drexel University,301,17000.0,19.0,38232,85,Electronics
+University of Arkansas,303,19500.0,18.0,17192,91,Electronics
+University of Dayton,307,16500.0,19.0,38232,88,Electronics
+University of New Mexico,310,18000.0,19.0,18096,91,Electronics
+Villanova University,310,17500.0,20.0,36144,91,Electronics
+Wright State University,306,21000.0,17.0,18096,90,Electronics
+Illinois Institute of Technology,302,20000.0,18.0,38520,90,Electronics
+Kansas State University,303,22500.0,17.0,19248,85,Electronics
+Missouri State University,309,19000.0,20.0,17192,85,Electronics
+Northeastern University,309,18500.0,18.0,38232,85,Electronics
+Oklahoma State University,303,20000.0,18.0,17472,85,Electronics
+Oregon State University,310,19500.0,18.0,21384,88,Electronics
+State University of New York Albany,305,17500.0,20.0,20952,91,Electronics
+Tennessee Technological University,310,16000.0,20.0,17754,86,Electronics
+Texas Tech University,301,18000.0,19.0,18432,92,Electronics
+"University of Alabama, Huntsville",308,19500.0,18.0,17754,86,Electronics
+University of Central Florida,309,20000.0,1.0,18588,88,Electronics
+University of Connecticut,304,22500.0,17.0,36918,87,Electronics
+University of Louisiana,310,21000.0,17.0,17754,87,Electronics
+University of Nevada,305,18500.0,18.0,18096,88,Electronics
+University of Oklahoma,309,16500.0,19.0,17472,88,Electronics
+University of Pittsburgh,308,19000.0,20.0,36144,90,Electronics
+"University of Texas, Arlington",309,20500.0,18.0,18096,89,Electronics
+Wayne State University,303,21500.0,17.0,18096,86,Electronics
+West Virginia University,302,18000.0,19.0,17192,86,Electronics
+Arizona State University,306,17500.0,20.0,21912,89,Electronics
+Florida State University,301,19000.0,20.0,18720,85,Electronics
+George Mason University,308,18500.0,18.0,38232,90,Electronics
+Georgia State University,301,21000.0,17.0,20616,86,Electronics
+Indiana University,303,20000.0,18.0,19296,85,Electronics
+San Jose State University,306,22500.0,17.0,23364,88,Electronics
+University of Georgia,309,19500.0,18.0,18720,86,Electronics
+"University of Texas, Dallas",309,20500.0,18.0,19656,86,Electronics
+New York University,301,18000.0,19.0,39888,91,Electronics
+Pennsylvania State University,316,19500.0,18.0,20880,91,Electronics
+Ohio State University,320,21000.0,17.0,20760,93,Electronics
+North Carolina State University,319,17500.0,20.0,20448,95,Electronics
+Boston University,317,16500.0,19.0,36918,95,Electronics
+"University of Colorado, Boulder",313,18000.0,19.0,21384,92,Electronics
+Indiana University Bloomington,319,19000.0,20.0,19296,93,Electronics
+Arizona State University,317,20000.0,18.0,21912,90,Electronics
+"University of North Carolina, Greensboro",320,22500.0,17.0,19140,94,Electronics
+Louisiana State University,312,21000.0,17.0,17952,95,Electronics
+The University of Alabama at Birmingham,316,20500.0,18.0,17754,90,Electronics
+New York University,312,17500.0,20.0,39888,94,Electronics
+University of Iowa,311,19000.0,20.0,19248,91,Electronics
+"University of Michigan, Dearborn",311,18500.0,18.0,20760,93,Electronics
+"University of Texas, Dallas",314,21000.0,17.0,19656,94,Electronics
+University of South Florida,312,20000.0,18.0,18588,95,Electronics
+Colorado State University,315,19500.0,18.0,20400,92,Electronics
+University of Florida,317,16500.0,19.0,20616,90,Electronics
+Tulane University,317,18000.0,19.0,33732,94,Electronics
+University of Southern California,315,17500.0,20.0,39696,91,Electronics
+Johns Hopkins University,329,20000.0,18.0,40800,93,Electronics
+Duke University - Pratt School of Engineering,328,22500.0,17.0,40800,95,Electronics
+Brown University - School of Engineering,323,19000.0,20.0,40800,94,Electronics
+Purdue University - College of Engineering,330,17500.0,20.0,19464,96,Electronics
+University of Texas Austin - Cockrell School of Engineering,322,18000.0,19.0,22800,93,Electronics
+University of Wisconsin Madison - College of Engineering,323,19500.0,18.0,22800,93,Electronics
+Iowa State University - College of Engineering,323,22000.0,17.0,19248,93,Electronics
+Northwestern University - Robert R. McCormick School of Engineering,325,21500.0,17.0,42650,94,Electronics
+Vanderbilt University - School of Engineering,323,20000.0,18.0,40800,95,Electronics
+University of Virginia - School of Engineering and Applied Sciences,330,22500.0,17.0,40800,97,Electronics
+University of Minnesota Twin Cities - College of Science and Engineering,329,20000.0,17.0,22800,94,Electronics
+Rensselaer Polytechnic Institute - School of Engineering,323,22500.0,16.0,42650,96,Electronics
+University of Rochester - Hajim School of Engineering and Applied Sciences,325,21000.0,17.0,40800,95,Electronics
+University of Southern California - Viterbi School of Engineering,327,24000.0,15.0,39696,96,Electronics
+University of Maryland College Park - A. James Clark School of Engineering,321,22000.0,16.0,22800,96,Electronics
+Ohio State University - College of Engineering,327,20500.0,17.0,20760,97,Electronics
+Virginia Tech - College of Engineering,321,19500.0,18.0,22800,95,Electronics
+University of California Irvine - Henry Samueli School of Engineering,327,23000.0,16.0,25254,96,Electronics
+Purdue University,322,22500.0,16.0,19464,93,Electronics
+University of Pennsylvania,325,23500.0,15.0,42650,97,Electronics
+University of Virginia,325,23000.0,16.0,40800,97,Electronics
+Rutgers University,326,21500.0,17.0,36588,95,Electronics
+University of Chicago,330,25000.0,15.0,42650,96,Electronics
+Northwestern University,323,24500.0,15.0,42650,95,Electronics
+University of Massachusetts,329,20500.0,17.0,36918,93,Electronics
+"University of Washington, Seattle",329,22000.0,16.0,25332,96,Electronics
+Washington University in St. Louis,327,25500.0,15.0,42650,97,Electronics
+University of Arizona,327,21000.0,17.0,18096,96,Electronics
+Yale University,327,26000.0,14.0,34704,93,Electronics
+"University of California, Los Angeles",323,24500.0,15.0,27524,96,Electronics
+"The University of Maryland, College Park",327,22000.0,16.0,22800,97,Electronics
+Cornell University,322,25000.0,15.0,31464,95,Electronics
+Columbia University,322,26500.0,14.0,41736,93,Electronics
+Dartmouth College,326,26500.0,14.0,40248,95,Electronics
+Brown University,322,25500.0,15.0,40800,97,Electronics
+Johns Hopkins University,325,27000.0,13.0,40800,94,Electronics
+University of Minnesota,324,20500.0,17.0,22800,95,Electronics
+Duke University,323,28000.0,12.0,40800,95,Electronics
+"University of California, San Diego",323,23500.0,16.0,24774,96,Electronics
+Rice University,321,27500.0,13.0,33696,95,Electronics
+University of Wisconsin,330,22500.0,16.0,22800,95,Electronics
+"University of Michigan, Ann Arbor",333,24000.0,15.0,22800,99,Electronics
+Georgia Institute of Technology,337,25000.0,15.0,18720,98,Electronics
+University of Illinois Urbana-Champaign,338,23500.0,16.0,19464,99,Electronics
+Cornell University,331,26000.0,14.0,31464,96,Electronics
+Johns Hopkins University,339,27500.0,13.0,40800,97,Electronics
+Duke University,333,28000.0,12.0,40800,99,Electronics
+Purdue University,334,27500.0,16.0,19464,97,Electronics
+University of Texas at Austin,339,27500.0,13.0,22800,97,Electronics
+"University of California, Los Angeles (UCLA)",336,22500.0,16.0,27524,95,Electronics
+Columbia University,337,28000.0,15.0,41736,97,Electronics
